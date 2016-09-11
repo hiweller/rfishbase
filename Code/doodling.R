@@ -20,7 +20,7 @@ getInfo <- function(speciesList) {
   return(outputTable)
 }
 wrasseData <- getInfo(wrasses)
-write.csv(wrasseData, file = './wrasseData_09-06-2016.csv')
+write.csv(wrasseData, file = './Output/wrasseData_09-06-2016.csv')
 
 depthDeep <- is.na(wrasseData$DepthRangeDeep)
 depthShallow <- is.na(wrasseData$DepthRangeShallow)
@@ -28,8 +28,8 @@ lengths <- is.na(wrasseData$Length)
 
 write.csv(x=wrasseData[(depthDeep | depthShallow | lengths), c(1, 7:8, 11)], file = './wrasseMissing.csv')
 
-missingFound <- read.csv('./wrasseMissing.csv')[,-1]
-wrasseData <- read.csv('./wrasseData_09-06-2016.csv')[,-1]
+missingFound <- read.csv('./Output/wrasseMissing.csv')[,-1]
+wrasseData <- read.csv('./Output/wrasseData_09-06-2016.csv')[,-1]
 missingNames <- missingFound$sciname
 allNames <- wrasseData$sciname
 wrasseData$Source <- rep("Fishbase", dim(wrasseData)[1])
@@ -47,7 +47,7 @@ for (i in 1:length(matches)) {
   wrasseData$Length[j] <- missingFound$Length[i]
   wrasseData$Source[j] <- missingFound$Source[i]
 }
-write.csv(wrasseData, file = './wrasseData_09-11-2016.csv')
+write.csv(wrasseData, file = './Output/wrasseData_09-12-2016.csv')
 
 # for every match:
 # replace col. 7 from wrasseData with col. 2 from missingFound
