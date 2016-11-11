@@ -1,5 +1,5 @@
 setwd('/Users/hannah/Dropbox/Westneat_Lab/RFishBase/')
-
+library(rfishbase)
 # Aquarium? Captured or bred in captivity?
 speciesFields <- c("Aquarium", "AquariumFishII", "Importance", 
                    "DepthRangeDeep", "DepthRangeShallow", 
@@ -54,3 +54,6 @@ write.csv(wrasseData, file = './Output/wrasseData_09-12-2016.csv')
 # replace col. 8 from wrasseData with col. 3 from missingFound
 # replace col. 11 from wrasseData with col. 4 from missingFound
 # replace wrasseData$Source with missingFound$Source
+
+fam = "Sparidae"
+spec <- species_list(Family = fam)

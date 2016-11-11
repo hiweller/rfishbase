@@ -1,4 +1,4 @@
-setwd('/Users/hannah/Dropbox/Westneat_Lab/FishImages/')
+setwd('/Users/hannah/Dropbox/Westneat_Lab/RFishBase/')
 
 # uncomment if rfishbase is not installed:
 # install.packages("rfishbase",
@@ -10,7 +10,10 @@ library('rfishbase')
 
 # set fish families
 # families <- c("Chaetodontidae", "Pomacentridae", "Labridae")
-families <- c("Scaridae", "Odacidae")
+# families <- c("Bythitidae", "Dinematichthyidae")
+
+Labrid <- c("Labridae", "Scaridae", "Odacidae")
+Pomacentrid <- c("Pomacentridae")
 
 fishbase_search <- function(families, save = FALSE) {
   # diet data is pulled from fooditems table, size and depth ranges are pulled from species table
@@ -41,5 +44,7 @@ fishbase_search <- function(families, save = FALSE) {
   }
   return(species_info)
 } 
+brotulas <- fishbase_search(families = families, save=TRUE)
+goatfish <- fishbase_search(families = "Mullidae", save = TRUE)
 
-fishbase_search(families = families, save = TRUE)
+fishbase_search(families = "Chaetodontidae", save=TRUE)

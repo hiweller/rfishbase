@@ -1,0 +1,963 @@
+"","sciname","FoodI","FoodII","FoodIII","Commoness","PredatorStage","SpecCode"
+"1","Acantholabrus palloni","zoobenthos","other benth. invertebrates","n.a./other benth. invertebrates",NA,"juv./adults",7633
+"2","Achoerodus gouldii","nekton","finfish","bony fish",NA,"juv./adults",14420
+"3","Achoerodus gouldii","zoobenthos","benth. crust.","crabs",NA,"juv./adults",14420
+"4","Achoerodus gouldii","zoobenthos","echinoderms","sea stars/brittle stars",NA,"juv./adults",14420
+"5","Achoerodus gouldii","zoobenthos","mollusks","n.a./other mollusks",NA,"juv./adults",14420
+"6","Ammolabrus dicrus","zoobenthos","worms","non-annelids",NA,"juv./adults",59627
+"7","Ammolabrus dicrus","zooplankton","plank. crust.","plank. copepods",NA,"juv./adults",59627
+"8","Anampses caeruleopunctatus","zoobenthos","benth. crust.","n.a./other benth. crustaceans",NA,"juv./adults",4888
+"9","Anampses caeruleopunctatus","zoobenthos","mollusks","n.a./other mollusks",NA,"adults",4888
+"10","Anampses caeruleopunctatus","zoobenthos","worms","polychaetes",NA,"juv./adults",4888
+"11","Anampses chrysocephalus","zoobenthos","other benth. invertebrates","n.a./other benth. invertebrates",NA,"juv./adults",4919
+"12","Anampses cuvier","nekton","finfish","bony fish",NA,"juv./adults",4916
+"13","Anampses cuvier","plants","other plants","benthic algae/weeds",NA,"juv./adults",4916
+"14","Anampses cuvier","zoobenthos","benth. crust.","amphipods",NA,"juv./adults",4916
+"15","Anampses cuvier","zoobenthos","benth. crust.","amphipods",NA,"juv./adults",4916
+"16","Anampses cuvier","zoobenthos","benth. crust.","benth. copepods",NA,"juv./adults",4916
+"17","Anampses cuvier","zoobenthos","benth. crust.","crabs",NA,"juv./adults",4916
+"18","Anampses cuvier","zoobenthos","benth. crust.","isopods",NA,"juv./adults",4916
+"19","Anampses cuvier","zoobenthos","benth. crust.","ostracods",NA,"juv./adults",4916
+"20","Anampses cuvier","zoobenthos","benth. crust.","shrimps/prawns",NA,"juv./adults",4916
+"21","Anampses cuvier","zoobenthos","echinoderms","sea stars/brittle stars",NA,"juv./adults",4916
+"22","Anampses cuvier","zoobenthos","echinoderms","sea urchins",NA,"juv./adults",4916
+"23","Anampses cuvier","zoobenthos","mollusks","chitons",NA,"juv./adults",4916
+"24","Anampses cuvier","zoobenthos","mollusks","gastropods",NA,"juv./adults",4916
+"25","Anampses cuvier","zoobenthos","other benth. invertebrates","n.a./other benth. Invertebrates",NA,"juv./adults",4916
+"26","Anampses cuvier","zoobenthos","sponges/tunicates","ascidians",NA,"juv./adults",4916
+"27","Anampses cuvier","zoobenthos","worms","non-annelids",NA,"juv./adults",4916
+"28","Anampses elegans","zoobenthos","other benth. invertebrates","n.a./other benth. Invertebrates",NA,"juv./adults",4918
+"29","Anampses geographicus","zoobenthos","benth. crust.","n.a./other benth. crustaceans",NA,"juv./adults",4891
+"30","Anampses lennardi","zoobenthos","other benth. invertebrates","n.a./other benth. Invertebrates",NA,"juv./adults",4917
+"31","Anampses melanurus","zoobenthos","benth. crust.","n.a./other benth. crustaceans",NA,"juv./adults",5622
+"32","Anampses melanurus","zoobenthos","mollusks","n.a./other mollusks",NA,"juv./adults",5622
+"33","Anampses melanurus","zoobenthos","worms","polychaetes",NA,"juv./adults",5622
+"34","Anampses meleagrides","zoobenthos","other benth. invertebrates","n.a./other benth. invertebrates",NA,"juv./adults",4889
+"35","Anampses neoguinaicus","zoobenthos","other benth. invertebrates","n.a./other benth. invertebrates",NA,"juv./adults",4890
+"36","Anampses twistii","zoobenthos","other benth. invertebrates","n.a./other benth. invertebrates",NA,"juv./adults",4893
+"37","Anchichoerops natalensis","zoobenthos","benth. crust.","n.a./other benth. crustaceans",NA,"juv./adults",14328
+"38","Anchichoerops natalensis","zoobenthos","echinoderms","sea urchins",NA,"juv./adults",14328
+"39","Anchichoerops natalensis","zoobenthos","mollusks","n.a./other mollusks",NA,"juv./adults",14328
+"40","Austrolabrus maculatus","zoobenthos","other benth. invertebrates","n.a./other benth. invertebrates",NA,"juv./adults",47036
+"41","Bodianus anthioides","nekton","finfish","bony fish",NA,"juv./adults",5497
+"42","Bodianus anthioides","zoobenthos","benth. crust.","n.a./other benth. crustaceans",NA,"juv./adults",5497
+"43","Bodianus anthioides","zoobenthos","echinoderms","sea stars/brittle stars",NA,"juv./adults",5497
+"44","Bodianus anthioides","zoobenthos","echinoderms","sea urchins",NA,"juv./adults",5497
+"45","Bodianus anthioides","zoobenthos","mollusks","bivalves",NA,"juv./adults",5497
+"46","Bodianus anthioides","zoobenthos","mollusks","gastropods",NA,"juv./adults",5497
+"47","Bodianus anthioides","zoobenthos","other benth. invertebrates","n.a./other benth. invertebrates",NA,"juv./adults",5497
+"48","Bodianus anthioides","zooplankton","other plank. invertebrates","n.a./other plank. invertebrates",NA,"juv./adults",5497
+"49","Bodianus axillaris","nekton","finfish","bony fish",NA,"juv./adults",5498
+"50","Bodianus axillaris","zoobenthos","benth. crust.","n.a./other benth. crustaceans",NA,"juv./adults",5498
+"51","Bodianus axillaris","zoobenthos","echinoderms","sea stars/brittle stars",NA,"juv./adults",5498
+"52","Bodianus axillaris","zoobenthos","echinoderms","sea urchins",NA,"juv./adults",5498
+"53","Bodianus axillaris","zoobenthos","mollusks","bivalves",NA,"juv./adults",5498
+"54","Bodianus axillaris","zoobenthos","mollusks","gastropods",NA,"juv./adults",5498
+"55","Bodianus axillaris","zoobenthos","worms","polychaetes",NA,"juv./adults",5498
+"56","Bodianus axillaris","zooplankton","other plank. invertebrates","n.a./other plank. Invertebrates",NA,"juv./adults",5498
+"57","Bodianus bilunulatus","nekton","finfish","n.a./other finfish",16,"adults",6580
+"58","Bodianus bilunulatus","zoobenthos","benth. crust.","crabs",NA,"adults",6580
+"59","Bodianus bilunulatus","zoobenthos","benth. crust.","crabs",NA,"adults",6580
+"60","Bodianus bilunulatus","zoobenthos","echinoderms","n.a./other echinoderms",NA,"adults",6580
+"61","Bodianus bilunulatus","zoobenthos","echinoderms","sea urchins",NA,"adults",6580
+"62","Bodianus bilunulatus","zoobenthos","mollusks","bivalves",NA,"adults",6580
+"63","Bodianus bilunulatus","zoobenthos","mollusks","gastropods",NA,"adults",6580
+"64","Bodianus bimaculatus","nekton","finfish","bony fish",NA,"juv./adults",5499
+"65","Bodianus bimaculatus","zoobenthos","benth. crust.","n.a./other benth. crustaceans",NA,"juv./adults",5499
+"66","Bodianus bimaculatus","zoobenthos","echinoderms","sea stars/brittle stars",NA,"juv./adults",5499
+"67","Bodianus bimaculatus","zoobenthos","echinoderms","sea urchins",NA,"juv./adults",5499
+"68","Bodianus bimaculatus","zoobenthos","mollusks","bivalves",NA,"juv./adults",5499
+"69","Bodianus bimaculatus","zoobenthos","mollusks","gastropods",NA,"juv./adults",5499
+"70","Bodianus bimaculatus","zoobenthos","worms","polychaetes",NA,"juv./adults",5499
+"71","Bodianus bimaculatus","zooplankton","other plank. invertebrates","n.a./other plank. invertebrates",NA,"juv./adults",5499
+"72","Bodianus diana","nekton","finfish","bony fish",NA,"juv./adults",5500
+"73","Bodianus diana","zoobenthos","echinoderms","sea stars/brittle stars",NA,"juv./adults",5500
+"74","Bodianus diana","zoobenthos","echinoderms","sea urchins",NA,"juv./adults",5500
+"75","Bodianus diana","zoobenthos","mollusks","bivalves",NA,"juv./adults",5500
+"76","Bodianus diana","zoobenthos","mollusks","gastropods",NA,"juv./adults",5500
+"77","Bodianus diana","zoobenthos","worms","polychaetes",NA,"juv./adults",5500
+"78","Bodianus diana","zooplankton","other plank. invertebrates","n.a./other plank. Invertebrates",NA,"juv./adults",5500
+"79","Bodianus dictynna","zoobenthos","benth. crust.","n.a./other benth. crustaceans",NA,"juv./adults",64242
+"80","Bodianus diplotaenia","nekton","finfish","bony fish",NA,"juv./adults",8270
+"81","Bodianus diplotaenia","zoobenthos","benth. crust.","crabs",NA,"juv./adults",8270
+"82","Bodianus diplotaenia","zoobenthos","echinoderms","sea stars/brittle stars",NA,"juv./adults",8270
+"83","Bodianus diplotaenia","zoobenthos","mollusks","bivalves",NA,"juv./adults",8270
+"84","Bodianus diplotaenia","zoobenthos","mollusks","gastropods",NA,"juv./adults",8270
+"85","Bodianus diplotaenia","zoobenthos","worms","polychaetes",NA,"juv./adults",8270
+"86","Bodianus diplotaenia","zoobenthos","echinoderms","sea urchins",NA,"juv./adults",8270
+"87","Bodianus diplotaenia","zooplankton","other plank. invertebrates","n.a./other plank. Invertebrates",NA,"juv./adults",8270
+"88","Bodianus eclancheri","plants","other plants","benthic algae/weeds",NA,"juv./adults",8272
+"89","Bodianus eclancheri","zoobenthos","other benth. invertebrates","n.a./other benth. Invertebrates",NA,"juv./adults",8272
+"90","Bodianus izuensis","nekton","finfish","bony fish",NA,"juv./adults",23525
+"91","Bodianus izuensis","zoobenthos","benth. crust.","n.a./other benth. crustaceans",NA,"juv./adults",23525
+"92","Bodianus izuensis","zoobenthos","echinoderms","sea stars/brittle stars",NA,"juv./adults",23525
+"93","Bodianus izuensis","zoobenthos","echinoderms","sea urchins",NA,"juv./adults",23525
+"94","Bodianus izuensis","zoobenthos","mollusks","bivalves",NA,"juv./adults",23525
+"95","Bodianus izuensis","zoobenthos","mollusks","gastropods",NA,"juv./adults",23525
+"96","Bodianus izuensis","zoobenthos","worms","polychaetes",NA,"juv./adults",23525
+"97","Bodianus izuensis","zooplankton","other plank. invertebrates","n.a./other plank. invertebrates",NA,"juv./adults",23525
+"98","Bodianus loxozonus","nekton","finfish","bony fish",NA,"juv./adults",12744
+"99","Bodianus loxozonus","zoobenthos","benth. crust.","n.a./other benth. crustaceans",NA,"juv./adults",12744
+"100","Bodianus loxozonus","zoobenthos","echinoderms","sea stars/brittle stars",NA,"juv./adults",12744
+"101","Bodianus loxozonus","zoobenthos","echinoderms","sea urchins",NA,"juv./adults",12744
+"102","Bodianus loxozonus","zoobenthos","mollusks","bivalves",NA,"juv./adults",12744
+"103","Bodianus loxozonus","zoobenthos","mollusks","gastropods",NA,"juv./adults",12744
+"104","Bodianus loxozonus","zoobenthos","worms","polychaetes",NA,"juv./adults",12744
+"105","Bodianus masudai","zoobenthos","other benth. invertebrates","n.a./other benth. invertebrates",NA,"juv./adults",23526
+"106","Bodianus mesothorax","zoobenthos","benth. crust.","n.a./other benth. crustaceans",NA,"juv./adults",5501
+"107","Bodianus mesothorax","zoobenthos","echinoderms","sea stars/brittle stars",NA,"juv./adults",5501
+"108","Bodianus mesothorax","zoobenthos","echinoderms","sea urchins",NA,"juv./adults",5501
+"109","Bodianus mesothorax","zoobenthos","mollusks","bivalves",NA,"juv./adults",5501
+"110","Bodianus mesothorax","zoobenthos","mollusks","gastropods",NA,"juv./adults",5501
+"111","Bodianus mesothorax","zoobenthos","worms","polychaetes",NA,"juv./adults",5501
+"112","Bodianus neilli","nekton","finfish","bony fish",NA,"juv./adults",25412
+"113","Bodianus neilli","zoobenthos","benth. crust.","n.a./other benth. crustaceans",NA,"juv./adults",25412
+"114","Bodianus neilli","zoobenthos","echinoderms","sea stars/brittle stars",NA,"juv./adults",25412
+"115","Bodianus neilli","zoobenthos","echinoderms","sea urchins",NA,"juv./adults",25412
+"116","Bodianus neilli","zoobenthos","mollusks","bivalves",NA,"juv./adults",25412
+"117","Bodianus neilli","zoobenthos","mollusks","gastropods",NA,"juv./adults",25412
+"118","Bodianus neilli","zoobenthos","worms","polychaetes",NA,"juv./adults",25412
+"119","Bodianus neilli","zooplankton","other plank. invertebrates","n.a./other plank. Invertebrates",NA,"juv./adults",25412
+"120","Bodianus opercularis","zoobenthos","other benth. invertebrates","n.a./other benth. invertebrates",NA,"juv./adults",25754
+"121","Bodianus perditio","zoobenthos","benth. crust.","n.a./other benth. crustaceans",NA,"juv./adults",7734
+"122","Bodianus perditio","zoobenthos","mollusks","n.a./other mollusks",NA,"juv./adults",7734
+"123","Bodianus pulchellus","nekton","finfish","bony fish",NA,"juv./adults",1066
+"124","Bodianus pulchellus","zoobenthos","benth. crust.","n.a./other benth. crustaceans",NA,"juv./adults",1066
+"125","Bodianus pulchellus","zoobenthos","echinoderms","sea stars/brittle stars",NA,"juv./adults",1066
+"126","Bodianus pulchellus","zoobenthos","echinoderms","sea urchins",NA,"juv./adults",1066
+"127","Bodianus pulchellus","zoobenthos","mollusks","bivalves",NA,"juv./adults",1066
+"128","Bodianus pulchellus","zoobenthos","mollusks","gastropods",NA,"juv./adults",1066
+"129","Bodianus pulchellus","zoobenthos","other benth. invertebrates","n.a./other benth. invertebrates",NA,"juv./adults",1066
+"130","Bodianus pulchellus","zoobenthos","worms","polychaetes",NA,"juv./adults",1066
+"131","Bodianus pulchellus","zooplankton","other plank. invertebrates","n.a./other plank. Invertebrates",NA,"juv./adults",1066
+"132","Bodianus rufus","zoobenthos","benth. crust.","amphipods",NA,"juv./adults",1067
+"133","Bodianus rufus","zoobenthos","benth. crust.","benth. copepods",NA,"juv./adults",1067
+"134","Bodianus rufus","zoobenthos","benth. crust.","isopods",NA,"juv./adults",1067
+"135","Bodianus rufus","zoobenthos","benth. crust.","n.a./other benth. crustaceans",NA,"juv./adults",1067
+"136","Bodianus rufus","zoobenthos","benth. crust.","n.a./other benth. crustaceans",NA,"juv./adults",1067
+"137","Bodianus rufus","zoobenthos","echinoderms","sea stars/brittle stars",NA,"juv./adults",1067
+"138","Bodianus rufus","zoobenthos","echinoderms","sea urchins",NA,"juv./adults",1067
+"139","Bodianus rufus","zoobenthos","mollusks","n.a./other mollusks",NA,"juv./adults",1067
+"140","Bodianus rufus","zoobenthos","mollusks","n.a./other mollusks",NA,"juv./adults",1067
+"141","Bodianus rufus","zoobenthos","other benth. invertebrates","n.a./other benth. invertebrates",NA,"juv./adults",1067
+"142","Bodianus scrofa","zoobenthos","other benth. invertebrates","n.a./other benth. invertebrates",NA,"juv./adults",13800
+"143","Bodianus speciosus","zoobenthos","mollusks","n.a./other mollusks",NA,"juv./adults",4955
+"144","Bodianus vulpinus","zoobenthos","other benth. invertebrates","n.a./other benth. invertebrates",NA,"juv./adults",13039
+"145","Centrolabrus exoletus","zoobenthos","benth. crust.","n.a./other benth. crustaceans",NA,"adults",55
+"146","Centrolabrus trutta","zoobenthos","other benth. invertebrates","n.a./other benth. invertebrates",NA,"juv./adults",22498
+"147","Cheilinus chlorourus","zoobenthos","benth. crust.","crabs",NA,"recruits/juv.",5598
+"148","Cheilinus chlorourus","zoobenthos","benth. crust.","isopods",NA,"recruits/juv.",5598
+"149","Cheilinus chlorourus","zoobenthos","benth. crust.","n.a./other benth. crustaceans",NA,"recruits/juv.",5598
+"150","Cheilinus chlorourus","zoobenthos","benth. crust.","shrimps/prawns",NA,"recruits/juv.",5598
+"151","Cheilinus chlorourus","zoobenthos","mollusks","gastropods",NA,"recruits/juv.",5598
+"152","Cheilinus chlorourus","zoobenthos","other benth. invertebrates","n.a./other benth. invertebrates",NA,"juv./adults",5598
+"153","Cheilinus fasciatus","zoobenthos","benth. crust.","n.a./other benth. crustaceans",NA,"juv./adults",5600
+"154","Cheilinus fasciatus","zoobenthos","echinoderms","sea urchins",NA,"juv./adults",5600
+"155","Cheilinus fasciatus","zoobenthos","mollusks","n.a./other mollusks",NA,"juv./adults",5600
+"156","Cheilinus lunulatus","zoobenthos","mollusks","n.a./other mollusks",NA,"juv./adults",12780
+"157","Cheilinus trilobatus","nekton","finfish","n.a./other finfish",NA,"juv./adults",5603
+"158","Cheilinus trilobatus","zoobenthos","benth. crust.","n.a./other benth. crustaceans",NA,"juv./adults",5603
+"159","Cheilinus trilobatus","zoobenthos","echinoderms","sea stars/brittle stars",NA,"juv./adults",5603
+"160","Cheilinus trilobatus","zoobenthos","mollusks","n.a./other mollusks",NA,"juv./adults",5603
+"161","Cheilinus undulatus","nekton","finfish","bony fish",NA,"juv./adults",5604
+"162","Cheilinus undulatus","zoobenthos","benth. crust.","n.a./other benth. crustaceans",NA,"juv./adults",5604
+"163","Cheilinus undulatus","zoobenthos","echinoderms","sea stars/brittle stars",NA,"juv./adults",5604
+"164","Cheilinus undulatus","zoobenthos","echinoderms","sea urchins",NA,"juv./adults",5604
+"165","Cheilinus undulatus","zoobenthos","mollusks","n.a./other mollusks",NA,"juv./adults",5604
+"166","Cheilinus undulatus","zoobenthos","other benth. invertebrates","n.a./other benth. invertebrates",NA,"adults",5604
+"167","Cheilio inermis","nekton","finfish","bony fish",NA,"juv./adults",5623
+"168","Cheilio inermis","zoobenthos","benth. crust.","amphipods",NA,"juv./adults",5623
+"169","Cheilio inermis","zoobenthos","benth. crust.","crabs",NA,"adults",5623
+"170","Cheilio inermis","zoobenthos","benth. crust.","crabs",NA,"adults",5623
+"171","Cheilio inermis","zoobenthos","benth. crust.","n.a./other benth. crustaceans",NA,"juv./adults",5623
+"172","Cheilio inermis","zoobenthos","benth. crust.","n.a./other benth. crustaceans",NA,"juv./adults",5623
+"173","Cheilio inermis","zoobenthos","benth. crust.","shrimps/prawns",NA,"adults",5623
+"174","Cheilio inermis","zoobenthos","echinoderms","sea urchins",NA,"adults",5623
+"175","Cheilio inermis","zoobenthos","mollusks","bivalves",NA,"adults",5623
+"176","Cheilio inermis","zoobenthos","mollusks","gastropods",NA,"adults",5623
+"177","Choerodon anchorago","zoobenthos","benth. crust.","amphipods",NA,"recruits/juv.",5502
+"178","Choerodon anchorago","zoobenthos","benth. crust.","crabs",NA,"juv./adults",5502
+"179","Choerodon anchorago","zoobenthos","benth. crust.","n.a./other benth. crustaceans",NA,"juv./adults",5502
+"180","Choerodon anchorago","zoobenthos","benth. crust.","n.a./other benth. crustaceans",NA,"recruits/juv.",5502
+"181","Choerodon anchorago","zoobenthos","echinoderms","sea urchins",NA,"juv./adults",5502
+"182","Choerodon anchorago","zoobenthos","mollusks","bivalves",NA,"juv./adults",5502
+"183","Choerodon anchorago","zoobenthos","mollusks","gastropods",NA,"juv./adults",5502
+"184","Choerodon anchorago","zoobenthos","mollusks","n.a./other mollusks",NA,"juv./adults",5502
+"185","Choerodon anchorago","zoobenthos","worms","polychaetes",NA,"recruits/juv.",5502
+"186","Choerodon azurio","zoobenthos","other benth. invertebrates","n.a./other benth. invertebrates",NA,"juv./adults",49409
+"187","Choerodon cephalotes","zoobenthos","benth. crust.","n.a./other benth. crustaceans",NA,"juv./adults",10848
+"188","Choerodon cephalotes","zoobenthos","echinoderms","sea urchins",NA,"juv./adults",10848
+"189","Choerodon cephalotes","zoobenthos","mollusks","n.a./other mollusks",NA,"juv./adults",10848
+"190","Choerodon cyanodus","zoobenthos","mollusks","n.a./other mollusks",NA,"juv./adults",12934
+"191","Choerodon fasciatus","zoobenthos","benth. crust.","n.a./other benth. crustaceans",NA,"juv./adults",12722
+"192","Choerodon fasciatus","zoobenthos","echinoderms","n.a./other echinoderms",NA,"juv./adults",12722
+"193","Choerodon fasciatus","zoobenthos","mollusks","n.a./other mollusks",NA,"juv./adults",12722
+"194","Choerodon fasciatus","zoobenthos","worms","n.a./other annelids",NA,"juv./adults",12722
+"195","Choerodon graphicus","zoobenthos","benth. crust.","n.a./other benth. crustaceans",NA,"juv./adults",8128
+"196","Choerodon graphicus","zoobenthos","echinoderms","sea urchins",NA,"juv./adults",8128
+"197","Choerodon graphicus","zoobenthos","mollusks","n.a./other mollusks",NA,"juv./adults",8128
+"198","Choerodon jordani","zoobenthos","other benth. invertebrates","n.a./other benth. invertebrates",NA,"juv./adults",6597
+"199","Choerodon robustus","zoobenthos","benth. crust.","n.a./other benth. crustaceans",NA,"juv./adults",6926
+"200","Choerodon robustus","zoobenthos","echinoderms","sea urchins",NA,"juv./adults",6926
+"201","Choerodon robustus","zoobenthos","mollusks","n.a./other mollusks",NA,"juv./adults",6926
+"202","Choerodon schoenleinii","zoobenthos","benth. crust.","n.a./other benth. crustaceans",NA,"juv./adults",6433
+"203","Choerodon schoenleinii","zoobenthos","echinoderms","sea urchins",NA,"juv./adults",6433
+"204","Choerodon schoenleinii","zoobenthos","mollusks","n.a./other mollusks",NA,"juv./adults",6433
+"205","Cirrhilabrus balteatus","zooplankton","other plank. invertebrates","n.a./other plank. Invertebrates",NA,"juv./adults",25760
+"206","Cirrhilabrus blatteus","zooplankton","other plank. invertebrates","n.a./other plank. Invertebrates",NA,"juv./adults",25759
+"207","Cirrhilabrus cyanopleura","zooplankton","other plank. invertebrates","n.a./other plank. Invertebrates",NA,"juv./adults",5106
+"208","Cirrhilabrus exquisitus","zooplankton","other plank. invertebrates","n.a./other plank. Invertebrates",NA,"juv./adults",5614
+"209","Cirrhilabrus filamentosus","zooplankton","other plank. invertebrates","n.a./other plank. invertebrates",NA,"juv./adults",10615
+"210","Cirrhilabrus johnsoni","zooplankton","other plank. invertebrates","n.a./other plank. Invertebrates",NA,"juv./adults",25762
+"211","Cirrhilabrus jordani","zooplankton","other plank. invertebrates","n.a./other plank. Invertebrates",NA,"juv./adults",7768
+"212","Cirrhilabrus laboutei","zooplankton","other plank. invertebrates","n.a./other plank. Invertebrates",NA,"juv./adults",13023
+"213","Cirrhilabrus lubbocki","zooplankton","other plank. invertebrates","n.a./other plank. Invertebrates",NA,"juv./adults",13041
+"214","Cirrhilabrus luteovittatus","zooplankton","other plank. invertebrates","n.a./other plank. Invertebrates",NA,"juv./adults",17451
+"215","Cirrhilabrus melanomarginatus","zooplankton","other plank. invertebrates","n.a./other plank. Invertebrates",NA,"juv./adults",7585
+"216","Cirrhilabrus rhomboidalis","zooplankton","other plank. invertebrates","n.a./other plank. Invertebrates",NA,"juv./adults",25763
+"217","Cirrhilabrus rubripinnis","zooplankton","plank. crust.","n.a./other plank. crustaceans",NA,"juv./adults",13042
+"218","Cirrhilabrus rubriventralis","zooplankton","other plank. invertebrates","n.a./other plank. Invertebrates",NA,"juv./adults",12781
+"219","Cirrhilabrus scottorum","zooplankton","other plank. invertebrates","n.a./other plank. Invertebrates",NA,"juv./adults",12728
+"220","Cirrhilabrus temminckii","zooplankton","other plank. invertebrates","n.a./other plank. Invertebrates",NA,"juv./adults",5484
+"221","Clepticus parrae","zooplankton","jellyfish/hydroids","jellyfish/hydroids",20,"juv./adults",3656
+"222","Clepticus parrae","zooplankton","other plank. invertebrates","n.a./other plank. invertebrates",NA,"juv./adults",3656
+"223","Coris aygula","zoobenthos","benth. crust.","n.a./other benth. crustaceans",NA,"juv./adults",5624
+"224","Coris aygula","zoobenthos","echinoderms","sea stars/brittle stars",NA,"juv./adults",5624
+"225","Coris aygula","zoobenthos","mollusks","n.a./other mollusks",NA,"juv./adults",5624
+"226","Coris batuensis","zoobenthos","mollusks","n.a./other mollusks",NA,"juv./adults",25688
+"227","Coris bulbifrons","zoobenthos","benth. crust.","crabs",NA,"juv./adults",12729
+"228","Coris bulbifrons","zoobenthos","mollusks","bivalves",NA,"juv./adults",12729
+"229","Coris bulbifrons","zoobenthos","mollusks","gastropods",NA,"juv./adults",12729
+"230","Coris caudimacula","zoobenthos","benth. crust.","amphipods",NA,"juv./adults",8026
+"231","Coris caudimacula","zoobenthos","benth. crust.","crabs",NA,"juv./adults",8026
+"232","Coris caudimacula","zoobenthos","benth. crust.","n.a./other benth. crustaceans",NA,"juv./adults",8026
+"233","Coris caudimacula","zoobenthos","mollusks","gastropods",NA,"juv./adults",8026
+"234","Coris caudimacula","zoobenthos","mollusks","n.a./other mollusks",NA,"juv./adults",8026
+"235","Coris caudimacula","zoobenthos","worms","polychaetes",NA,"juv./adults",8026
+"236","Coris cuvieri","zoobenthos","benth. crust.","n.a./other benth. crustaceans",NA,"juv./adults",52844
+"237","Coris cuvieri","zoobenthos","echinoderms","sea urchins",NA,"juv./adults",52844
+"238","Coris cuvieri","zoobenthos","mollusks","n.a./other mollusks",NA,"juv./adults",52844
+"239","Coris formosa","zoobenthos","benth. crust.","n.a./other benth. crustaceans",NA,"juv./adults",7736
+"240","Coris formosa","zoobenthos","echinoderms","sea urchins",NA,"juv./adults",7736
+"241","Coris formosa","zoobenthos","mollusks","n.a./other mollusks",NA,"juv./adults",7736
+"242","Coris gaimard","zoobenthos","benth. crust.","crabs",NA,"adults",5625
+"243","Coris gaimard","zoobenthos","benth. crust.","crabs",NA,"adults",5625
+"244","Coris gaimard","zoobenthos","mollusks","n.a./other mollusks",NA,"adults",5625
+"245","Coris gaimard","zoobenthos","other benth. invertebrates","n.a./other benth. Invertebrates",NA,"juv./adults",5625
+"246","Coris gaimard","zoobenthos","sponges/tunicates","ascidians",NA,"juv./adults",5625
+"247","Coris julis","plants","other plants","benthic algae/weeds",NA,"juv./adults",58
+"248","Coris julis","zoobenthos","benth. crust.","amphipods",NA,"juv./adults",58
+"249","Coris julis","zoobenthos","benth. crust.","benth. copepods",NA,"juv./adults",58
+"250","Coris julis","zoobenthos","benth. crust.","isopods",NA,"juv./adults",58
+"251","Coris julis","zoobenthos","benth. crust.","n.a./other benth. crustaceans",NA,"juv./adults",58
+"252","Coris julis","zoobenthos","benth. crust.","shrimps/prawns",NA,"juv./adults",58
+"253","Coris julis","zoobenthos","echinoderms","sea urchins",NA,"juv./adults",58
+"254","Coris julis","zoobenthos","mollusks","bivalves",NA,"juv./adults",58
+"255","Coris julis","zoobenthos","mollusks","bivalves",NA,"juv./adults",58
+"256","Coris julis","zoobenthos","mollusks","gastropods",NA,"juv./adults",58
+"257","Coris julis","zoobenthos","mollusks","gastropods",NA,"juv./adults",58
+"258","Coris julis","zoobenthos","mollusks","gastropods",NA,"juv./adults",58
+"259","Coris julis","zoobenthos","mollusks","n.a./other cephalopods",NA,"juv./adults",58
+"260","Coris julis","zoobenthos","mollusks","n.a./other mollusks",NA,"juv./adults",58
+"261","Coris julis","zoobenthos","worms","non-annelids",NA,"juv./adults",58
+"262","Coris julis","zoobenthos","worms","polychaetes",NA,"juv./adults",58
+"263","Coris variegata","zoobenthos","other benth. invertebrates","n.a./other benth. Invertebrates",NA,"juv./adults",5485
+"264","Ctenolabrus rupestris","nekton","finfish","bony fish",NA,"juv./adults",61
+"265","Ctenolabrus rupestris","zoobenthos","benth. crust.","amphipods",NA,"juv./adults",61
+"266","Ctenolabrus rupestris","zoobenthos","benth. crust.","amphipods",NA,"juv./adults",61
+"267","Ctenolabrus rupestris","zoobenthos","benth. crust.","amphipods",NA,"juv./adults",61
+"268","Ctenolabrus rupestris","zoobenthos","benth. crust.","benth. copepods",NA,"juv./adults",61
+"269","Ctenolabrus rupestris","zoobenthos","benth. crust.","benth. copepods",NA,"juv./adults",61
+"270","Ctenolabrus rupestris","zoobenthos","benth. crust.","crabs",NA,"juv./adults",61
+"271","Ctenolabrus rupestris","zoobenthos","benth. crust.","crabs",NA,"juv./adults",61
+"272","Ctenolabrus rupestris","zoobenthos","benth. crust.","crabs",NA,"juv./adults",61
+"273","Ctenolabrus rupestris","zoobenthos","benth. crust.","crabs",NA,"juv./adults",61
+"274","Ctenolabrus rupestris","zoobenthos","benth. crust.","lobsters",NA,"juv./adults",61
+"275","Ctenolabrus rupestris","zoobenthos","benth. crust.","lobsters",NA,"juv./adults",61
+"276","Ctenolabrus rupestris","zoobenthos","benth. crust.","n.a./other benth. crustaceans",NA,"juv./adults",61
+"277","Ctenolabrus rupestris","zoobenthos","echinoderms","sea stars/brittle stars",NA,"juv./adults",61
+"278","Ctenolabrus rupestris","zoobenthos","mollusks","bivalves",NA,"juv./adults",61
+"279","Ctenolabrus rupestris","zoobenthos","mollusks","bivalves",NA,"juv./adults",61
+"280","Ctenolabrus rupestris","zoobenthos","mollusks","bivalves",NA,"juv./adults",61
+"281","Ctenolabrus rupestris","zoobenthos","mollusks","bivalves",NA,"juv./adults",61
+"282","Ctenolabrus rupestris","zoobenthos","mollusks","bivalves",NA,"juv./adults",61
+"283","Ctenolabrus rupestris","zoobenthos","mollusks","bivalves",NA,"juv./adults",61
+"284","Ctenolabrus rupestris","zoobenthos","mollusks","gastropods",NA,"juv./adults",61
+"285","Ctenolabrus rupestris","zoobenthos","mollusks","gastropods",NA,"juv./adults",61
+"286","Ctenolabrus rupestris","zoobenthos","mollusks","gastropods",NA,"juv./adults",61
+"287","Ctenolabrus rupestris","zoobenthos","mollusks","gastropods",NA,"juv./adults",61
+"288","Ctenolabrus rupestris","zoobenthos","mollusks","gastropods",NA,"juv./adults",61
+"289","Ctenolabrus rupestris","zoobenthos","mollusks","gastropods",NA,"juv./adults",61
+"290","Ctenolabrus rupestris","zoobenthos","worms","polychaetes",NA,"juv./adults",61
+"291","Ctenolabrus rupestris","zoobenthos","worms","polychaetes",NA,"juv./adults",61
+"292","Ctenolabrus rupestris","zoobenthos","worms","polychaetes",NA,"juv./adults",61
+"293","Ctenolabrus rupestris","zoobenthos","worms","polychaetes",NA,"juv./adults",61
+"294","Ctenolabrus rupestris","zoobenthos","worms","polychaetes",NA,"juv./adults",61
+"295","Ctenolabrus rupestris","zoobenthos","worms","polychaetes",NA,"juv./adults",61
+"296","Ctenolabrus rupestris","zoobenthos","worms","polychaetes",NA,"juv./adults",61
+"297","Cymolutes lecluse","nekton","finfish","bony fish",NA,"juv./adults",6081
+"298","Diproctacanthus xanthurus","zoobenthos","cnidarians","hard corals",NA,"adults",5108
+"299","Epibulus insidiator","nekton","finfish","bony fish",23.8,"juv./adults",5606
+"300","Epibulus insidiator","zoobenthos","benth. crust.","n.a./other benth. crustaceans",NA,"juv./adults",5606
+"301","Eupetrichthys angustipes","zoobenthos","other benth. invertebrates","n.a./other benth. invertebrates",NA,"juv./adults",47037
+"302","Gomphosus caeruleus","zoobenthos","other benth. invertebrates","n.a./other benth. invertebrates",NA,"juv./adults",7744
+"303","Halichoeres bivittatus","zoobenthos","other benth. invertebrates","n.a./other benth. invertebrates",NA,"juv./adults",3660
+"304","Halichoeres brasiliensis","zoobenthos","other benth. invertebrates","n.a./other benth. invertebrates",NA,"juv./adults",61031
+"305","Halichoeres chierchiae","zoobenthos","benth. crust.","crabs",NA,"juv./adults",13839
+"306","Halichoeres chierchiae","zoobenthos","echinoderms","sea stars/brittle stars",NA,"juv./adults",13839
+"307","Halichoeres chierchiae","zoobenthos","echinoderms","sea urchins",NA,"juv./adults",13839
+"308","Halichoeres chierchiae","zoobenthos","mollusks","n.a./other mollusks",NA,"juv./adults",13839
+"309","Halichoeres chloropterus","zoobenthos","benth. crust.","n.a./other benth. crustaceans",NA,"juv./adults",4859
+"310","Halichoeres chloropterus","zoobenthos","echinoderms","sea urchins",NA,"juv./adults",4859
+"311","Halichoeres chloropterus","zoobenthos","mollusks","n.a./other mollusks",NA,"juv./adults",4859
+"312","Halichoeres cyanocephalus","nekton","finfish","bony fish",NA,"juv./adults",3662
+"313","Halichoeres cyanocephalus","zoobenthos","benth. crust.","isopods",NA,"recruits/juv.",3662
+"314","Halichoeres cyanocephalus","zoobenthos","benth. crust.","benth. copepods",NA,"recruits/juv.",3662
+"315","Halichoeres dispilus","nekton","finfish","bony fish",NA,"adults",8208
+"316","Halichoeres dispilus","zoobenthos","other benth. invertebrates","n.a./other benth. Invertebrates",NA,"juv./adults",8208
+"317","Halichoeres garnoti","zoobenthos","other benth. invertebrates","n.a./other benth. invertebrates",NA,"juv./adults",3663
+"318","Halichoeres hortulanus","zoobenthos","benth. crust.","n.a./other benth. crustaceans",NA,"juv./adults",12663
+"319","Halichoeres hortulanus","zoobenthos","echinoderms","sea urchins",NA,"juv./adults",12663
+"320","Halichoeres hortulanus","zoobenthos","mollusks","n.a./other mollusks",NA,"juv./adults",12663
+"321","Halichoeres leucurus","zoobenthos","other benth. invertebrates","n.a./other benth. invertebrates",NA,"juv./adults",56811
+"322","Halichoeres maculipinna","zoobenthos","other benth. invertebrates","n.a./other benth. invertebrates",NA,"juv./adults",3664
+"323","Halichoeres margaritaceus","nekton","finfish","bony fish",NA,"juv./adults",5630
+"324","Halichoeres margaritaceus","zoobenthos","benth. crust.","n.a./other benth. crustaceans",NA,"juv./adults",5630
+"325","Halichoeres margaritaceus","zoobenthos","mollusks","n.a./other mollusks",NA,"juv./adults",5630
+"326","Halichoeres margaritaceus","zoobenthos","other benth. invertebrates","n.a./other benth. invertebrates",NA,"juv./adults",5630
+"327","Halichoeres margaritaceus","zoobenthos","worms","polychaetes",NA,"juv./adults",5630
+"328","Halichoeres margaritaceus","zooplankton","fish (early stages)","fish eggs/larvae",NA,"juv./adults",5630
+"329","Halichoeres melanotis","zoobenthos","other benth. invertebrates","n.a./other benth. invertebrates",NA,"juv./adults",13845
+"330","Halichoeres melasmapomus","zoobenthos","other benth. invertebrates","n.a./other benth. invertebrates",NA,"juv./adults",4856
+"331","Halichoeres nicholsi","nekton","finfish","bony fish",NA,"juv./adults",13846
+"332","Halichoeres nicholsi","zoobenthos","other benth. invertebrates","n.a./other benth. Invertebrates",NA,"juv./adults",13846
+"333","Halichoeres notospilus","zoobenthos","benth. crust.","n.a./other benth. crustaceans",NA,"juv./adults",8330
+"334","Halichoeres notospilus","zoobenthos","echinoderms","sea stars/brittle stars",NA,"juv./adults",8330
+"335","Halichoeres notospilus","zoobenthos","echinoderms","sea urchins",NA,"juv./adults",8330
+"336","Halichoeres ornatissimus","zoobenthos","benth. crust.","n.a./other benth. crustaceans",NA,"juv./adults",6664
+"337","Halichoeres ornatissimus","zoobenthos","mollusks","n.a./other mollusks",NA,"juv./adults",6664
+"338","Halichoeres pictus","zoobenthos","other benth. invertebrates","n.a./other benth. Invertebrates",NA,"juv./adults",3665
+"339","Halichoeres radiatus","zoobenthos","other benth. invertebrates","n.a./other benth. invertebrates",NA,"juv./adults",1068
+"340","Halichoeres scapularis","zoobenthos","benth. crust.","n.a./other benth. crustaceans",NA,"juv./adults",5633
+"341","Halichoeres semicinctus","plants","other plants","benthic algae/weeds",NA,"juv./adults",3667
+"342","Halichoeres semicinctus","zoobenthos","benth. crust.","amphipods",NA,"juv./adults",3667
+"343","Halichoeres semicinctus","zoobenthos","benth. crust.","amphipods",NA,"juv./adults",3667
+"344","Halichoeres semicinctus","zoobenthos","benth. crust.","amphipods",NA,"juv./adults",3667
+"345","Halichoeres semicinctus","zoobenthos","benth. crust.","amphipods",NA,"juv./adults",3667
+"346","Halichoeres semicinctus","zoobenthos","benth. crust.","amphipods",NA,"juv./adults",3667
+"347","Halichoeres semicinctus","zoobenthos","benth. crust.","amphipods",NA,"juv./adults",3667
+"348","Halichoeres semicinctus","zoobenthos","benth. crust.","amphipods",NA,"juv./adults",3667
+"349","Halichoeres semicinctus","zoobenthos","benth. crust.","amphipods",NA,"juv./adults",3667
+"350","Halichoeres semicinctus","zoobenthos","benth. crust.","amphipods",NA,"juv./adults",3667
+"351","Halichoeres semicinctus","zoobenthos","benth. crust.","amphipods",NA,"juv./adults",3667
+"352","Halichoeres semicinctus","zoobenthos","benth. crust.","amphipods",NA,"juv./adults",3667
+"353","Halichoeres semicinctus","zoobenthos","benth. crust.","amphipods",NA,"juv./adults",3667
+"354","Halichoeres semicinctus","zoobenthos","benth. crust.","amphipods",NA,"juv./adults",3667
+"355","Halichoeres semicinctus","zoobenthos","benth. crust.","n.a./other benth. crustaceans",NA,"juv./adults",3667
+"356","Halichoeres semicinctus","zoobenthos","benth. crust.","n.a./other benth. crustaceans",NA,"juv./adults",3667
+"357","Halichoeres semicinctus","zoobenthos","benth. crust.","n.a./other benth. crustaceans",NA,"juv./adults",3667
+"358","Halichoeres semicinctus","zoobenthos","benth. crust.","ostracods",NA,"juv./adults",3667
+"359","Halichoeres semicinctus","zoobenthos","benth. crust.","ostracods",NA,"juv./adults",3667
+"360","Halichoeres semicinctus","zoobenthos","benth. crust.","ostracods",NA,"juv./adults",3667
+"361","Halichoeres semicinctus","zoobenthos","benth. crust.","shrimps/prawns",NA,"juv./adults",3667
+"362","Halichoeres semicinctus","zoobenthos","echinoderms","n.a./other echinoderms",NA,"juv./adults",3667
+"363","Halichoeres semicinctus","zoobenthos","echinoderms","sea stars/brittle stars",NA,"juv./adults",3667
+"364","Halichoeres semicinctus","zoobenthos","mollusks","bivalves",NA,"juv./adults",3667
+"365","Halichoeres semicinctus","zoobenthos","mollusks","bivalves",NA,"juv./adults",3667
+"366","Halichoeres semicinctus","zoobenthos","mollusks","bivalves",NA,"juv./adults",3667
+"367","Halichoeres semicinctus","zoobenthos","mollusks","bivalves",NA,"juv./adults",3667
+"368","Halichoeres semicinctus","zoobenthos","mollusks","n.a./other mollusks",NA,"juv./adults",3667
+"369","Halichoeres semicinctus","zoobenthos","other benth. invertebrates","n.a./other benth. Invertebrates",NA,"juv./adults",3667
+"370","Halichoeres semicinctus","zoobenthos","worms","polychaetes",NA,"juv./adults",3667
+"371","Halichoeres semicinctus","zoobenthos","worms","polychaetes",NA,"juv./adults",3667
+"372","Halichoeres semicinctus","zoobenthos","worms","polychaetes",NA,"juv./adults",3667
+"373","Halichoeres socialis","zooplankton","other plank. invertebrates","n.a./other plank. invertebrates",NA,"juv./adults",60288
+"374","Halichoeres solorensis","zoobenthos","other benth. invertebrates","n.a./other benth. invertebrates",NA,"juv./adults",11622
+"375","Halichoeres trimaculatus","nekton","finfish","bony fish",NA,"juv./adults",5634
+"376","Halichoeres trimaculatus","nekton","finfish","n.a./other finfish",NA,"juv./adults",5634
+"377","Halichoeres trimaculatus","plants","other plants","benthic algae/weeds",NA,"juv./adults",5634
+"378","Halichoeres trimaculatus","zoobenthos","benth. crust.","amphipods",NA,"juv./adults",5634
+"379","Halichoeres trimaculatus","zoobenthos","benth. crust.","benth. copepods",NA,"recruits/juv.",5634
+"380","Halichoeres trimaculatus","zoobenthos","benth. crust.","crabs",NA,"juv./adults",5634
+"381","Halichoeres trimaculatus","zoobenthos","benth. crust.","crabs",NA,"juv./adults",5634
+"382","Halichoeres trimaculatus","zoobenthos","benth. crust.","n.a./other benth. crustaceans",NA,"recruits/juv.",5634
+"383","Halichoeres trimaculatus","zoobenthos","benth. crust.","stomatopods",NA,"juv./adults",5634
+"384","Halichoeres trimaculatus","zoobenthos","mollusks","bivalves",NA,"juv./adults",5634
+"385","Halichoeres trimaculatus","zoobenthos","mollusks","chitons",NA,"juv./adults",5634
+"386","Halichoeres trimaculatus","zoobenthos","worms","n.a./other annelids",NA,"recruits/juv.",5634
+"387","Halichoeres trimaculatus","zoobenthos","worms","polychaetes",NA,"juv./adults",5634
+"388","Halichoeres trimaculatus","zooplankton","other plank. invertebrates","n.a./other plank. Invertebrates",NA,"juv./adults",5634
+"389","Hemigymnus fasciatus","zoobenthos","mollusks","n.a./other mollusks",NA,"juv./adults",5635
+"390","Hemigymnus fasciatus","zoobenthos","other benth. invertebrates","n.a./other benth. invertebrates",NA,"juv./adults",5635
+"391","Hemigymnus melapterus","zoobenthos","benth. crust.","n.a./other benth. crustaceans",NA,"juv./adults",5636
+"392","Hemigymnus melapterus","zoobenthos","echinoderms","sea stars/brittle stars",NA,"juv./adults",5636
+"393","Hemigymnus melapterus","zoobenthos","mollusks","n.a./other mollusks",NA,"juv./adults",5636
+"394","Hemigymnus melapterus","zoobenthos","other benth. invertebrates","n.a./other benth. invertebrates",NA,"juv./adults",5636
+"395","Hemigymnus melapterus","zoobenthos","worms","polychaetes",NA,"juv./adults",5636
+"396","Hologymnosus annulatus","nekton","finfish","bony fish",NA,"juv./adults",5637
+"397","Hologymnosus doliatus","nekton","finfish","bony fish",NA,"juv./adults",5638
+"398","Hologymnosus doliatus","zoobenthos","benth. crust.","shrimps/prawns",NA,"juv./adults",5638
+"399","Hologymnosus doliatus","zoobenthos","echinoderms","sea stars/brittle stars",NA,"juv./adults",5638
+"400","Hologymnosus doliatus","zoobenthos","worms","polychaetes",NA,"juv./adults",5638
+"401","Iniistius pavo","zoobenthos","benth. crust.","n.a./other benth. crustaceans",NA,"adults",5613
+"402","Iniistius pavo","zoobenthos","mollusks","n.a./other mollusks",NA,"juv./adults",5613
+"403","Iniistius pavo","zoobenthos","other benth. invertebrates","n.a./other benth. invertebrates",NA,"juv./adults",5613
+"404","Iniistius pentadactylus","zoobenthos","benth. crust.","n.a./other benth. crustaceans",NA,"juv./adults",7747
+"405","Iniistius pentadactylus","zoobenthos","mollusks","n.a./other mollusks",NA,"juv./adults",7747
+"406","Labrichthys unilineatus","zoobenthos","cnidarians","hard corals",NA,"adults",5109
+"407","Labrichthys unilineatus","zoobenthos","cnidarians","hard corals",NA,"juv./adults",5109
+"408","Labroides bicolor","nekton","finfish","bony fish",NA,"juv./adults",5650
+"409","Labroides bicolor","zoobenthos","benth. crust.","n.a./other benth. crustaceans",NA,"juv./adults",5650
+"410","Labroides dimidiatus","nekton","finfish","bony fish",NA,"juv./adults",5459
+"411","Labroides dimidiatus","nekton","finfish","bony fish",NA,"juv./adults",5459
+"412","Labroides dimidiatus","zoobenthos","benth. crust.","isopods",NA,"juv./adults",5459
+"413","Labroides dimidiatus","zoobenthos","benth. crust.","n.a./other benth. crustaceans",NA,"juv./adults",5459
+"414","Labroides dimidiatus","zoobenthos","benth. crust.","n.a./other benth. crustaceans",NA,"juv./adults",5459
+"415","Labroides pectoralis","nekton","finfish","bony fish",NA,"juv./adults",5651
+"416","Labroides pectoralis","zoobenthos","benth. crust.","n.a./other benth. crustaceans",NA,"juv./adults",5651
+"417","Labroides phthirophagus","nekton","finfish","bony fish",NA,"juv./adults",7765
+"418","Labroides phthirophagus","zoobenthos","benth. crust.","n.a./other benth. crustaceans",NA,"juv./adults",7765
+"419","Labropsis alleni","zoobenthos","cnidarians","hard corals",NA,"adults",4863
+"420","Labropsis australis","nekton","finfish","bony fish",NA,"recruits/juv.",4868
+"421","Labropsis australis","zoobenthos","benth. crust.","n.a./other benth. crustaceans",NA,"recruits/juv.",4868
+"422","Labropsis australis","zoobenthos","cnidarians","n.a./other polyps",NA,"adults",4868
+"423","Labropsis manabei","zoobenthos","cnidarians","hard corals",NA,"juv./adults",4866
+"424","Labropsis manabei","zoobenthos","cnidarians","hard corals",NA,"adults",4866
+"425","Labropsis xanthonota","others","others","n.a./others",NA,"juv./adults",4865
+"426","Labropsis xanthonota","zoobenthos","cnidarians","n.a./other polyps",NA,"adults",4865
+"427","Labrus bergylta","nekton","finfish","bony fish",8.2,"juv./adults",572
+"428","Labrus bergylta","plants","other plants","benthic algae/weeds",69.4,"juv./adults",572
+"429","Labrus bergylta","zoobenthos","benth. crust.","amphipods",40.8,"juv./adults",572
+"430","Labrus bergylta","zoobenthos","benth. crust.","crabs",NA,"juv./adults",572
+"431","Labrus bergylta","zoobenthos","benth. crust.","crabs",NA,"juv./adults",572
+"432","Labrus bergylta","zoobenthos","benth. crust.","crabs",NA,"juv./adults",572
+"433","Labrus bergylta","zoobenthos","benth. crust.","isopods",14.3,"juv./adults",572
+"434","Labrus bergylta","zoobenthos","benth. crust.","lobsters",NA,"juv./adults",572
+"435","Labrus bergylta","zoobenthos","benth. crust.","n.a./other benth. crustaceans",NA,"juv./adults",572
+"436","Labrus bergylta","zoobenthos","benth. crust.","ostracods",8.2,"juv./adults",572
+"437","Labrus bergylta","zoobenthos","echinoderms","sea urchins",NA,"juv./adults",572
+"438","Labrus bergylta","zoobenthos","echinoderms","sea urchins",NA,"juv./adults",572
+"439","Labrus bergylta","zoobenthos","echinoderms","sea urchins",NA,"juv./adults",572
+"440","Labrus bergylta","zoobenthos","mollusks","bivalves",75.5,"juv./adults",572
+"441","Labrus bergylta","zoobenthos","mollusks","gastropods",NA,"juv./adults",572
+"442","Labrus bergylta","zoobenthos","mollusks","gastropods",NA,"juv./adults",572
+"443","Labrus bergylta","zoobenthos","mollusks","gastropods",NA,"juv./adults",572
+"444","Labrus bergylta","zoobenthos","mollusks","gastropods",NA,"juv./adults",572
+"445","Labrus bergylta","zoobenthos","mollusks","n.a./other mollusks",NA,"juv./adults",572
+"446","Labrus bergylta","zoobenthos","other benth. invertebrates","n.a./other benth. invertebrates",36.7,"juv./adults",572
+"447","Labrus bergylta","zoobenthos","other benth. invertebrates","n.a./other benth. invertebrates",16.3,"juv./adults",572
+"448","Labrus bergylta","zoobenthos","sponges/tunicates","ascidians",8.2,"juv./adults",572
+"449","Labrus bergylta","zoobenthos","worms","polychaetes",53.1,"juv./adults",572
+"450","Labrus bergylta","zooplankton","plank. crust.","n.a./other plank. crustaceans",NA,"juv./adults",572
+"451","Labrus merula","zoobenthos","benth. crust.","crabs",NA,"juv./adults",4582
+"452","Labrus merula","zoobenthos","benth. crust.","n.a./other benth. crustaceans",NA,"juv./adults",4582
+"453","Labrus merula","zoobenthos","echinoderms","sea stars/brittle stars",NA,"juv./adults",4582
+"454","Labrus merula","zoobenthos","echinoderms","sea urchins",NA,"juv./adults",4582
+"455","Labrus merula","zoobenthos","mollusks","n.a./other mollusks",NA,"juv./adults",4582
+"456","Labrus merula","zoobenthos","worms","n.a./other annelids",NA,"juv./adults",4582
+"457","Labrus mixtus","nekton","finfish","bony fish",NA,"juv./adults",1375
+"458","Labrus mixtus","zoobenthos","benth. crust.","n.a./other benth. crustaceans",NA,"juv./adults",1375
+"459","Labrus mixtus","zoobenthos","mollusks","n.a./other mollusks",NA,"juv./adults",1375
+"460","Labrus viridis","nekton","finfish","bony fish",NA,"juv./adults",51659
+"461","Labrus viridis","zoobenthos","benth. crust.","crabs",NA,"juv./adults",51659
+"462","Labrus viridis","zoobenthos","benth. crust.","isopods",NA,"juv./adults",51659
+"463","Labrus viridis","zoobenthos","benth. crust.","n.a./other benth. crustaceans",NA,"juv./adults",51659
+"464","Labrus viridis","zoobenthos","echinoderms","n.a./other echinoderms",NA,"juv./adults",51659
+"465","Labrus viridis","zoobenthos","worms","polychaetes",NA,"juv./adults",51659
+"466","Lappanella fasciata","zoobenthos","benth. crust.","crabs",NA,"juv./adults",22513
+"467","Lappanella fasciata","zoobenthos","mollusks","gastropods",NA,"juv./adults",22513
+"468","Lappanella fasciata","zoobenthos","worms","polychaetes",NA,"juv./adults",22513
+"469","Larabicus quadrilineatus","zoobenthos","cnidarians","hard corals",NA,"adults",25788
+"470","Leptojulis cyanopleura","zooplankton","other plank. invertebrates","n.a./other plank. invertebrates",NA,"juv./adults",10576
+"471","Leptojulis polylepis","nekton","finfish","bony fish",NA,"juv./adults",26289
+"472","Leptojulis polylepis","zoobenthos","benth. crust.","n.a./other benth. crustaceans",NA,"juv./adults",26289
+"473","Leptojulis polylepis","zoobenthos","worms","polychaetes",NA,"juv./adults",26289
+"474","Leptojulis urostigma","nekton","finfish","bony fish",NA,"juv./adults",26288
+"475","Leptojulis urostigma","zoobenthos","benth. crust.","n.a./other benth. crustaceans",NA,"juv./adults",26288
+"476","Leptojulis urostigma","zoobenthos","worms","polychaetes",NA,"juv./adults",26288
+"477","Macropharyngodon bipartitus","zoobenthos","mollusks","n.a./other mollusks",NA,"juv./adults",7801
+"478","Macropharyngodon bipartitus","zoobenthos","other benth. invertebrates","n.a./other benth. invertebrates",NA,"juv./adults",7801
+"479","Macropharyngodon geoffroy","zoobenthos","mollusks","n.a./other mollusks",NA,"juv./adults",7767
+"480","Macropharyngodon geoffroy","zooplankton","other plank. invertebrates","n.a./other plank. Invertebrates",NA,"juv./adults",7767
+"481","Minilabrus striatus","zooplankton","other plank. invertebrates","n.a./other plank. invertebrates",NA,"juv./adults",25781
+"482","Notolabrus cinctus","zoobenthos","benth. crust.","n.a./other benth. crustaceans",NA,"juv./adults",46873
+"483","Notolabrus cinctus","zoobenthos","mollusks","n.a./other mollusks",NA,"juv./adults",46873
+"484","Notolabrus fucicola","zoobenthos","benth. crust.","crabs",NA,"juv./adults",14422
+"485","Notolabrus fucicola","zoobenthos","mollusks","gastropods",NA,"juv./adults",14422
+"486","Novaculichthys taeniourus","zoobenthos","benth. crust.","crabs",NA,"adults",5610
+"487","Novaculichthys taeniourus","zoobenthos","echinoderms","n.a./other echinoderms",NA,"adults",5610
+"488","Novaculichthys taeniourus","zoobenthos","echinoderms","sea urchins",NA,"adults",5610
+"489","Novaculichthys taeniourus","zoobenthos","mollusks","bivalves",NA,"adults",5610
+"490","Novaculichthys taeniourus","zoobenthos","mollusks","chitons",NA,"juv./adults",5610
+"491","Novaculichthys taeniourus","zoobenthos","mollusks","gastropods",NA,"adults",5610
+"492","Novaculichthys taeniourus","zoobenthos","worms","polychaetes",NA,"adults",5610
+"493","Novaculoides macrolepidotus","zoobenthos","benth. crust.","amphipods",NA,"juv./adults",5609
+"494","Novaculoides macrolepidotus","zoobenthos","benth. crust.","crabs",NA,"juv./adults",5609
+"495","Novaculoides macrolepidotus","zoobenthos","benth. crust.","isopods",NA,"juv./adults",5609
+"496","Novaculoides macrolepidotus","zoobenthos","benth. crust.","n.a./other benth. crustaceans",NA,"juv./adults",5609
+"497","Ophthalmolepis lineolata","zoobenthos","other benth. invertebrates","n.a./other benth. invertebrates",NA,"juv./adults",56982
+"498","Oxycheilinus arenatus","nekton","finfish","bony fish",NA,"juv./adults",5595
+"499","Oxycheilinus arenatus","zoobenthos","benth. crust.","n.a./other benth. crustaceans",NA,"juv./adults",5595
+"500","Oxycheilinus arenatus","zoobenthos","benth. crust.","shrimps/prawns",NA,"juv./adults",5595
+"501","Oxycheilinus bimaculatus","zoobenthos","benth. crust.","crabs",NA,"juv./adults",5596
+"502","Oxycheilinus bimaculatus","zoobenthos","benth. crust.","crabs",NA,"juv./adults",5596
+"503","Oxycheilinus bimaculatus","zoobenthos","benth. crust.","n.a./other benth. crustaceans",NA,"juv./adults",5596
+"504","Oxycheilinus bimaculatus","zoobenthos","benth. crust.","shrimps/prawns",NA,"juv./adults",5596
+"505","Oxycheilinus bimaculatus","zoobenthos","mollusks","gastropods",NA,"juv./adults",5596
+"506","Oxycheilinus digramma","zoobenthos","mollusks","n.a./other mollusks",NA,"juv./adults",5599
+"507","Oxycheilinus orientalis","nekton","finfish","bony fish",NA,"juv./adults",5601
+"508","Oxycheilinus orientalis","zoobenthos","benth. crust.","n.a./other benth. crustaceans",NA,"juv./adults",5601
+"509","Oxycheilinus orientalis","zoobenthos","benth. crust.","shrimps/prawns",NA,"juv./adults",5601
+"510","Oxycheilinus unifasciatus","nekton","finfish","bony fish",NA,"adults",5605
+"511","Oxycheilinus unifasciatus","zoobenthos","benth. crust.","shrimps/prawns",NA,"adults",5605
+"512","Oxyjulis californica","plants","other plants","benthic algae/weeds",NA,"juv./adults",3670
+"513","Oxyjulis californica","zoobenthos","mollusks","gastropods",NA,"juv./adults",3670
+"514","Oxyjulis californica","zooplankton","other plank. invertebrates","n.a./other plank. Invertebrates",NA,"juv./adults",3670
+"515","Oxyjulis californica","zooplankton","plank. crust.","n.a./other plank. crustaceans",NA,"juv./adults",3670
+"516","Oxyjulis californica","zooplankton","fish (early stages)","fish eggs/larvae",NA,"juv./adults",3670
+"517","Paracheilinus angulatus","zooplankton","other plank. invertebrates","n.a./other plank. Invertebrates",NA,"juv./adults",4845
+"518","Paracheilinus bellae","zooplankton","other plank. invertebrates","n.a./other plank. Invertebrates",NA,"juv./adults",25765
+"519","Paracheilinus carpenteri","zooplankton","other plank. invertebrates","n.a./other plank. Invertebrates",NA,"juv./adults",4843
+"520","Paracheilinus filamentosus","zooplankton","other plank. invertebrates","n.a./other plank. Invertebrates",NA,"juv./adults",4844
+"521","Paracheilinus lineopunctatus","zooplankton","other plank. invertebrates","n.a./other plank. Invertebrates",NA,"juv./adults",4841
+"522","Paracheilinus mccoskeri","zooplankton","other plank. invertebrates","n.a./other plank. Invertebrates",NA,"juv./adults",4842
+"523","Paracheilinus octotaenia","zooplankton","other plank. invertebrates","n.a./other plank. Invertebrates",NA,"juv./adults",4840
+"524","Polylepion russelli","zoobenthos","other benth. invertebrates","n.a./other benth. invertebrates",NA,"juv./adults",13040
+"525","Pseudocheilinops ataenia","zoobenthos","benth. crust.","amphipods",NA,"juv./adults",5615
+"526","Pseudocheilinops ataenia","zoobenthos","other benth. invertebrates","n.a./other benth. invertebrates",NA,"juv./adults",5615
+"527","Pseudocheilinus evanidus","zoobenthos","other benth. invertebrates","n.a./other benth. invertebrates",NA,"juv./adults",5616
+"528","Pseudocheilinus hexataenia","zooplankton","plank. crust.","n.a./other plank. crustaceans",NA,"juv./adults",5617
+"529","Pseudocheilinus octotaenia","zoobenthos","benth. crust.","n.a./other benth. crustaceans",NA,"juv./adults",5618
+"530","Pseudocheilinus octotaenia","zoobenthos","echinoderms","sea urchins",NA,"juv./adults",5618
+"531","Pseudocheilinus octotaenia","zoobenthos","mollusks","n.a./other mollusks",NA,"juv./adults",5618
+"532","Pseudocoris aurantiofasciata","zooplankton","other plank. invertebrates","n.a./other plank. invertebrates",NA,"juv./adults",25783
+"533","Pseudocoris bleekeri","zooplankton","other plank. invertebrates","n.a./other plank. invertebrates",NA,"juv./adults",59631
+"534","Pseudocoris heteroptera","zooplankton","other plank. invertebrates","n.a./other plank. invertebrates",NA,"juv./adults",11620
+"535","Pseudocoris ocellata","zooplankton","other plank. invertebrates","n.a./other plank. invertebrates",NA,"juv./adults",27078
+"536","Pseudocoris yamashiroi","zooplankton","other plank. invertebrates","n.a./other plank. invertebrates",NA,"juv./adults",5639
+"537","Pseudodax moluccanus","plants","other plants","benthic algae/weeds",NA,"juv./adults",5594
+"538","Pseudodax moluccanus","zoobenthos","other benth. invertebrates","n.a./other benth. invertebrates",NA,"juv./adults",5594
+"539","Pseudolabrus biserialis","zoobenthos","other benth. invertebrates","n.a./other benth. invertebrates",NA,"juv./adults",46934
+"540","Pseudolabrus guentheri","zoobenthos","benth. crust.","n.a./other benth. crustaceans",NA,"juv./adults",13155
+"541","Pseudolabrus japonicus","plants","phytoplankton","n.a./other phytoplankton",NA,"juv./adults",12795
+"542","Pseudolabrus japonicus","zoobenthos","benth. crust.","n.a./other benth. crustaceans",NA,"juv./adults",12795
+"543","Pseudolabrus japonicus","zoobenthos","cnidarians","n.a./other polyps",NA,"juv./adults",12795
+"544","Pseudolabrus japonicus","zoobenthos","mollusks","bivalves",NA,"juv./adults",12795
+"545","Pseudolabrus japonicus","zoobenthos","mollusks","gastropods",NA,"juv./adults",12795
+"546","Pseudolabrus japonicus","zoobenthos","mollusks","n.a./other mollusks",NA,"juv./adults",12795
+"547","Pseudolabrus japonicus","zoobenthos","sponges/tunicates","sponges",NA,"juv./adults",12795
+"548","Pseudolabrus japonicus","zoobenthos","worms","n.a./other annelids",NA,"juv./adults",12795
+"549","Pseudolabrus japonicus","zoobenthos","worms","non-annelids",NA,"juv./adults",12795
+"550","Pseudolabrus japonicus","zoobenthos","worms","polychaetes",NA,"juv./adults",12795
+"551","Pseudolabrus sieboldi","plants","phytoplankton","n.a./other phytoplankton",NA,"juv./adults",57440
+"552","Pseudolabrus sieboldi","zoobenthos","benth. crust.","n.a./other benth. crustaceans",NA,"juv./adults",57440
+"553","Pseudolabrus sieboldi","zoobenthos","echinoderms","n.a./other echinoderms",NA,"juv./adults",57440
+"554","Pseudolabrus sieboldi","zoobenthos","mollusks","bivalves",NA,"juv./adults",57440
+"555","Pseudolabrus sieboldi","zoobenthos","mollusks","gastropods",NA,"juv./adults",57440
+"556","Pteragogus cryptus","zoobenthos","other benth. invertebrates","n.a./other benth. invertebrates",NA,"juv./adults",5620
+"557","Pteragogus flagellifer","zoobenthos","other benth. invertebrates","n.a./other benth. invertebrates",NA,"juv./adults",8022
+"558","Semicossyphus darwini","zoobenthos","benth. crust.","crabs",1.23,"juv./adults",12859
+"559","Semicossyphus darwini","zoobenthos","benth. crust.","crabs",1.23,"juv./adults",12859
+"560","Semicossyphus darwini","zoobenthos","benth. crust.","crabs",0.61,"juv./adults",12859
+"561","Semicossyphus darwini","zoobenthos","benth. crust.","crabs",1.23,"juv./adults",12859
+"562","Semicossyphus darwini","zoobenthos","benth. crust.","crabs",1.23,"juv./adults",12859
+"563","Semicossyphus darwini","zoobenthos","benth. crust.","crabs",0.61,"juv./adults",12859
+"564","Semicossyphus darwini","zoobenthos","benth. crust.","n.a./other benth. crustaceans",5.55,"juv./adults",12859
+"565","Semicossyphus darwini","zoobenthos","benth. crust.","n.a./other benth. crustaceans",0.61,"juv./adults",12859
+"566","Semicossyphus darwini","zoobenthos","benth. crust.","shrimps/prawns",1.33,"juv./adults",12859
+"567","Semicossyphus darwini","zoobenthos","echinoderms","sea stars/brittle stars",1.85,"juv./adults",12859
+"568","Semicossyphus darwini","zoobenthos","echinoderms","sea urchins",2.46,"juv./adults",12859
+"569","Semicossyphus darwini","zoobenthos","mollusks","bivalves",11.11,"juv./adults",12859
+"570","Semicossyphus darwini","zoobenthos","mollusks","bivalves",1.85,"juv./adults",12859
+"571","Semicossyphus darwini","zoobenthos","mollusks","bivalves",4.32,"juv./adults",12859
+"572","Semicossyphus darwini","zoobenthos","mollusks","bivalves",10.49,"juv./adults",12859
+"573","Semicossyphus darwini","zoobenthos","mollusks","bivalves",7.4,"juv./adults",12859
+"574","Semicossyphus darwini","zoobenthos","mollusks","chitons",3.08,"juv./adults",12859
+"575","Semicossyphus darwini","zoobenthos","mollusks","crabs",2.46,"juv./adults",12859
+"576","Semicossyphus darwini","zoobenthos","mollusks","crabs",0.61,"juv./adults",12859
+"577","Semicossyphus darwini","zoobenthos","mollusks","gastropods",13.58,"juv./adults",12859
+"578","Semicossyphus darwini","zoobenthos","mollusks","gastropods",0.61,"juv./adults",12859
+"579","Semicossyphus darwini","zoobenthos","mollusks","gastropods",11.11,"juv./adults",12859
+"580","Semicossyphus darwini","zoobenthos","mollusks","gastropods",0.61,"juv./adults",12859
+"581","Semicossyphus darwini","zoobenthos","mollusks","gastropods",0.61,"juv./adults",12859
+"582","Semicossyphus darwini","zoobenthos","mollusks","gastropods",7.4,"juv./adults",12859
+"583","Semicossyphus darwini","zoobenthos","mollusks","gastropods",6.17,"juv./adults",12859
+"584","Semicossyphus darwini","zoobenthos","mollusks","gastropods",1.85,"juv./adults",12859
+"585","Semicossyphus pulcher","zoobenthos","benth. crust.","amphipods",NA,"recruits/juv.",3671
+"586","Semicossyphus pulcher","zoobenthos","benth. crust.","amphipods",NA,"recruits/juv.",3671
+"587","Semicossyphus pulcher","zoobenthos","benth. crust.","amphipods",NA,"recruits/juv.",3671
+"588","Semicossyphus pulcher","zoobenthos","benth. crust.","amphipods",NA,"recruits/juv.",3671
+"589","Semicossyphus pulcher","zoobenthos","benth. crust.","amphipods",NA,"recruits/juv.",3671
+"590","Semicossyphus pulcher","zoobenthos","benth. crust.","amphipods",NA,"recruits/juv.",3671
+"591","Semicossyphus pulcher","zoobenthos","benth. crust.","amphipods",NA,"recruits/juv.",3671
+"592","Semicossyphus pulcher","zoobenthos","benth. crust.","crabs",NA,"juv./adults",3671
+"593","Semicossyphus pulcher","zoobenthos","benth. crust.","lobsters",NA,"juv./adults",3671
+"594","Semicossyphus pulcher","zoobenthos","benth. crust.","n.a./other benth. crustaceans",NA,"recruits/juv.",3671
+"595","Semicossyphus pulcher","zoobenthos","benth. crust.","ostracods",NA,"recruits/juv.",3671
+"596","Semicossyphus pulcher","zoobenthos","benth. crust.","ostracods",NA,"recruits/juv.",3671
+"597","Semicossyphus pulcher","zoobenthos","benth. crust.","shrimps/prawns",NA,"recruits/juv.",3671
+"598","Semicossyphus pulcher","zoobenthos","echinoderms","n.a./other echinoderms",NA,"recruits/juv.",3671
+"599","Semicossyphus pulcher","zoobenthos","echinoderms","sea stars/brittle stars",NA,"recruits/juv.",3671
+"600","Semicossyphus pulcher","zoobenthos","echinoderms","sea urchins",NA,"juv./adults",3671
+"601","Semicossyphus pulcher","zoobenthos","mollusks","bivalves",NA,"recruits/juv.",3671
+"602","Semicossyphus pulcher","zoobenthos","mollusks","bivalves",NA,"recruits/juv.",3671
+"603","Semicossyphus pulcher","zoobenthos","mollusks","bivalves",NA,"recruits/juv.",3671
+"604","Semicossyphus pulcher","zoobenthos","mollusks","bivalves",NA,"recruits/juv.",3671
+"605","Semicossyphus pulcher","zoobenthos","mollusks","n.a./other mollusks",NA,"juv./adults",3671
+"606","Semicossyphus pulcher","zoobenthos","worms","polychaetes",NA,"recruits/juv.",3671
+"607","Semicossyphus pulcher","zoobenthos","worms","polychaetes",NA,"recruits/juv.",3671
+"608","Semicossyphus pulcher","zoobenthos","worms","polychaetes",NA,"recruits/juv.",3671
+"609","Semicossyphus reticulatus","zoobenthos","benth. crust.","n.a./other benth. crustaceans",53,"juv./adults",23626
+"610","Semicossyphus reticulatus","zoobenthos","mollusks","n.a./other mollusks",21,"juv./adults",23626
+"611","Stethojulis albovittata","zoobenthos","benth. crust.","n.a./other benth. crustaceans",NA,"juv./adults",8025
+"612","Stethojulis albovittata","zoobenthos","mollusks","n.a./other mollusks",NA,"juv./adults",8025
+"613","Stethojulis balteata","zoobenthos","mollusks","bivalves",NA,"juv./adults",7828
+"614","Stethojulis balteata","zoobenthos","mollusks","gastropods",NA,"juv./adults",7828
+"615","Stethojulis balteata","zoobenthos","worms","non-annelids",NA,"juv./adults",7828
+"616","Stethojulis balteata","zoobenthos","worms","polychaetes",NA,"juv./adults",7828
+"617","Stethojulis balteata","zooplankton","other plank. invertebrates","n.a./other plank. Invertebrates",NA,"juv./adults",7828
+"618","Stethojulis bandanensis","zoobenthos","other benth. invertebrates","n.a./other benth. invertebrates",15,"juv./adults",5640
+"619","Stethojulis bandanensis","zooplankton","plank. crust.","n.a./other plank. crustaceans",62,"juv./adults",5640
+"620","Stethojulis interrupta","zoobenthos","other benth. invertebrates","n.a./other benth. invertebrates",NA,"juv./adults",6633
+"621","Stethojulis strigiventer","detritus","detritus","debris",NA,"recruits/juv.",5641
+"622","Stethojulis strigiventer","zoobenthos","benth. crust.","amphipods",NA,"juv./adults",5641
+"623","Stethojulis strigiventer","zoobenthos","benth. crust.","benth. copepods",NA,"recruits/juv.",5641
+"624","Stethojulis strigiventer","zoobenthos","benth. crust.","n.a./other benth. crustaceans",NA,"juv./adults",5641
+"625","Stethojulis strigiventer","zoobenthos","other benth. invertebrates","n.a./other benth. invertebrates",NA,"juv./adults",5641
+"626","Stethojulis terina","zoobenthos","other benth. invertebrates","n.a./other benth. invertebrates",NA,"juv./adults",57374
+"627","Suezichthys arquatus","zoobenthos","other benth. invertebrates","n.a./other benth. invertebrates",NA,"juv./adults",4412
+"628","Suezichthys aylingi","zoobenthos","benth. crust.","n.a./other benth. crustaceans",NA,"adults",4406
+"629","Suezichthys gracilis","zoobenthos","benth. crust.","amphipods",NA,"juv./adults",4407
+"630","Suezichthys gracilis","zoobenthos","benth. crust.","n.a./other benth. crustaceans",NA,"juv./adults",4407
+"631","Suezichthys gracilis","zoobenthos","other benth. invertebrates","n.a./other benth. invertebrates",NA,"juv./adults",4407
+"632","Suezichthys gracilis","zoobenthos","worms","polychaetes",NA,"juv./adults",4407
+"633","Symphodus cinereus","zoobenthos","benth. crust.","amphipods",NA,"juv./adults",1791
+"634","Symphodus cinereus","zoobenthos","benth. crust.","amphipods",NA,"juv./adults",1791
+"635","Symphodus cinereus","zoobenthos","benth. crust.","amphipods",NA,"juv./adults",1791
+"636","Symphodus cinereus","zoobenthos","benth. crust.","benth. copepods",NA,"juv./adults",1791
+"637","Symphodus cinereus","zoobenthos","benth. crust.","n.a./other benth. crustaceans",NA,"juv./adults",1791
+"638","Symphodus cinereus","zoobenthos","benth. crust.","n.a./other benth. crustaceans",NA,"juv./adults",1791
+"639","Symphodus cinereus","zoobenthos","mollusks","bivalves",NA,"juv./adults",1791
+"640","Symphodus cinereus","zoobenthos","mollusks","gastropods",NA,"juv./adults",1791
+"641","Symphodus cinereus","zoobenthos","mollusks","gastropods",NA,"juv./adults",1791
+"642","Symphodus cinereus","zoobenthos","other benth. invertebrates","n.a./other benth. invertebrates",NA,"juv./adults",1791
+"643","Symphodus cinereus","zoobenthos","worms","polychaetes",NA,"juv./adults",1791
+"644","Symphodus cinereus","zoobenthos","worms","polychaetes",NA,"juv./adults",1791
+"645","Symphodus cinereus","zooplankton","plank. crust.","euphausiids",NA,"juv./adults",1791
+"646","Symphodus doderleini","zoobenthos","benth. crust.","amphipods",NA,"juv./adults",54573
+"647","Symphodus doderleini","zoobenthos","mollusks","n.a./other mollusks",NA,"juv./adults",54573
+"648","Symphodus doderleini","zoobenthos","other benth. invertebrates","n.a./other benth. invertebrates",NA,"juv./adults",54573
+"649","Symphodus doderleini","zoobenthos","worms","n.a./other annelids",NA,"juv./adults",54573
+"650","Symphodus mediterraneus","plants","other plants","benthic algae/weeds",NA,"juv./adults",4578
+"651","Symphodus mediterraneus","zoobenthos","benth. crust.","amphipods",NA,"juv./adults",4578
+"652","Symphodus mediterraneus","zoobenthos","benth. crust.","benth. copepods",NA,"juv./adults",4578
+"653","Symphodus mediterraneus","zoobenthos","benth. crust.","n.a./other benth. crustaceans",NA,"juv./adults",4578
+"654","Symphodus mediterraneus","zoobenthos","echinoderms","sea urchins",NA,"juv./adults",4578
+"655","Symphodus mediterraneus","zoobenthos","mollusks","bivalves",NA,"juv./adults",4578
+"656","Symphodus mediterraneus","zoobenthos","mollusks","chitons",NA,"juv./adults",4578
+"657","Symphodus mediterraneus","zoobenthos","mollusks","gastropods",NA,"juv./adults",4578
+"658","Symphodus mediterraneus","zoobenthos","mollusks","n.a./other mollusks",NA,"juv./adults",4578
+"659","Symphodus mediterraneus","zoobenthos","other benth. invertebrates","n.a./other benth. invertebrates",NA,"juv./adults",4578
+"660","Symphodus mediterraneus","zoobenthos","worms","polychaetes",NA,"juv./adults",4578
+"661","Symphodus melanocercus","zoobenthos","benth. crust.","amphipods",NA,"juv./adults",16339
+"662","Symphodus melanocercus","zoobenthos","benth. crust.","benth. copepods",NA,"juv./adults",16339
+"663","Symphodus melanocercus","zoobenthos","mollusks","bivalves",NA,"juv./adults",16339
+"664","Symphodus melanocercus","zoobenthos","other benth. invertebrates","n.a./other benth. invertebrates",NA,"juv./adults",16339
+"665","Symphodus melanocercus","zoobenthos","other benth. invertebrates","n.a./other benth. invertebrates",NA,"juv./adults",16339
+"666","Symphodus melanocercus","zoobenthos","worms","n.a./other annelids",NA,"juv./adults",16339
+"667","Symphodus melops","plants","other plants","benthic algae/weeds",NA,"juv./adults",59
+"668","Symphodus melops","plants","other plants","benthic algae/weeds",NA,"juv./adults",59
+"669","Symphodus melops","plants","other plants","benthic algae/weeds",NA,"juv./adults",59
+"670","Symphodus melops","zoobenthos","insects","insects",23.4,"juv./adults",59
+"671","Symphodus melops","zoobenthos","benth. crust.","amphipods",NA,"juv./adults",59
+"672","Symphodus melops","zoobenthos","benth. crust.","amphipods",NA,"juv./adults",59
+"673","Symphodus melops","zoobenthos","benth. crust.","benth. copepods",48.8,"juv./adults",59
+"674","Symphodus melops","zoobenthos","benth. crust.","crabs",NA,"juv./adults",59
+"675","Symphodus melops","zoobenthos","benth. crust.","crabs",NA,"juv./adults",59
+"676","Symphodus melops","zoobenthos","benth. crust.","crabs",NA,"juv./adults",59
+"677","Symphodus melops","zoobenthos","benth. crust.","isopods",NA,"juv./adults",59
+"678","Symphodus melops","zoobenthos","benth. crust.","isopods",NA,"juv./adults",59
+"679","Symphodus melops","zoobenthos","benth. crust.","n.a./other benth. crustaceans",19,"juv./adults",59
+"680","Symphodus melops","zoobenthos","benth. crust.","n.a./other benth. crustaceans",1.3,"juv./adults",59
+"681","Symphodus melops","zoobenthos","benth. crust.","ostracods",34.3,"juv./adults",59
+"682","Symphodus melops","zoobenthos","benth. crust.","shrimps/prawns",NA,"juv./adults",59
+"683","Symphodus melops","zoobenthos","cnidarians","n.a./other polyps",3.7,"juv./adults",59
+"684","Symphodus melops","zoobenthos","cnidarians","n.a./other polyps",NA,"juv./adults",59
+"685","Symphodus melops","zoobenthos","echinoderms","n.a./other echinoderms",1.3,"juv./adults",59
+"686","Symphodus melops","zoobenthos","mollusks","bivalves",NA,"juv./adults",59
+"687","Symphodus melops","zoobenthos","mollusks","chitons",3.2,"juv./adults",59
+"688","Symphodus melops","zoobenthos","mollusks","gastropods",NA,"juv./adults",59
+"689","Symphodus melops","zoobenthos","mollusks","gastropods",NA,"juv./adults",59
+"690","Symphodus melops","zoobenthos","mollusks","gastropods",NA,"juv./adults",59
+"691","Symphodus melops","zoobenthos","mollusks","gastropods",NA,"juv./adults",59
+"692","Symphodus melops","zoobenthos","mollusks","n.a./other mollusks",NA,"juv./adults",59
+"693","Symphodus melops","zoobenthos","other benth. invertebrates","n.a./other benth. invertebrates",33.5,"juv./adults",59
+"694","Symphodus melops","zoobenthos","other benth. invertebrates","n.a./other benth. invertebrates",NA,"juv./adults",59
+"695","Symphodus melops","zoobenthos","other benth. invertebrates","n.a./other benth. invertebrates",1.4,"juv./adults",59
+"696","Symphodus melops","zoobenthos","other benth. invertebrates","n.a./other benth. invertebrates",15.6,"juv./adults",59
+"697","Symphodus melops","zoobenthos","other benth. invertebrates","n.a./other benth. invertebrates",8.5,"juv./adults",59
+"698","Symphodus melops","zoobenthos","other benth. invertebrates","n.a./other benth. invertebrates",2,"juv./adults",59
+"699","Symphodus melops","zoobenthos","sponges/tunicates","ascidians",1.6,"juv./adults",59
+"700","Symphodus melops","zoobenthos","sponges/tunicates","sponges",0.5,"juv./adults",59
+"701","Symphodus melops","zoobenthos","worms","polychaetes",25.6,"juv./adults",59
+"702","Symphodus melops","zoobenthos","worms","polychaetes",NA,"juv./adults",59
+"703","Symphodus melops","zoobenthos","benth. crust.","n.a./other benth. crustaceans",NA,"juv./adults",59
+"704","Symphodus melops","zooplankton","fish (early stages)","fish eggs/larvae",0.8,"juv./adults",59
+"705","Symphodus ocellatus","plants","other plants","benthic algae/weeds",NA,"juv./adults",1792
+"706","Symphodus ocellatus","zoobenthos","benth. crust.","amphipods",NA,"juv./adults",1792
+"707","Symphodus ocellatus","zoobenthos","benth. crust.","benth. copepods",NA,"juv./adults",1792
+"708","Symphodus ocellatus","zoobenthos","benth. crust.","isopods",NA,"juv./adults",1792
+"709","Symphodus ocellatus","zoobenthos","benth. crust.","n.a./other benth. crustaceans",NA,"juv./adults",1792
+"710","Symphodus ocellatus","zoobenthos","benth. crust.","shrimps/prawns",NA,"juv./adults",1792
+"711","Symphodus ocellatus","zoobenthos","echinoderms","n.a./other echinoderms",NA,"juv./adults",1792
+"712","Symphodus ocellatus","zoobenthos","mollusks","gastropods",NA,"juv./adults",1792
+"713","Symphodus ocellatus","zoobenthos","mollusks","n.a./other mollusks",NA,"juv./adults",1792
+"714","Symphodus ocellatus","zoobenthos","other benth. invertebrates","n.a./other benth. invertebrates",NA,"juv./adults",1792
+"715","Symphodus ocellatus","zoobenthos","worms","n.a./other annelids",NA,"juv./adults",1792
+"716","Symphodus ocellatus","zoobenthos","worms","polychaetes",NA,"juv./adults",1792
+"717","Symphodus ocellatus","zooplankton","jellyfish/hydroids","jellyfish/hydroids",NA,"juv./adults",1792
+"718","Symphodus ocellatus","zooplankton","other plank. invertebrates","n.a./other plank. invertebrates",NA,"juv./adults",1792
+"719","Symphodus ocellatus","zooplankton","fish (early stages)","fish eggs/larvae",NA,"juv./adults",1792
+"720","Symphodus roissali","zoobenthos","benth. crust.","shrimps/prawns",NA,"juv./adults",1709
+"721","Symphodus roissali","zoobenthos","echinoderms","sea urchins",NA,"juv./adults",1709
+"722","Symphodus roissali","zoobenthos","mollusks","bivalves",NA,"juv./adults",1709
+"723","Symphodus roissali","zoobenthos","mollusks","gastropods",NA,"juv./adults",1709
+"724","Symphodus roissali","zoobenthos","mollusks","n.a./other mollusks",NA,"juv./adults",1709
+"725","Symphodus roissali","zooplankton","jellyfish/hydroids","jellyfish/hydroids",NA,"juv./adults",1709
+"726","Symphodus rostratus","nekton","finfish","bony fish",NA,"juv./adults",4580
+"727","Symphodus rostratus","zoobenthos","benth. crust.","amphipods",NA,"juv./adults",4580
+"728","Symphodus rostratus","zoobenthos","benth. crust.","benth. copepods",NA,"juv./adults",4580
+"729","Symphodus rostratus","zoobenthos","benth. crust.","isopods",NA,"juv./adults",4580
+"730","Symphodus rostratus","zoobenthos","benth. crust.","n.a./other benth. crustaceans",NA,"juv./adults",4580
+"731","Symphodus rostratus","zoobenthos","benth. crust.","n.a./other benth. crustaceans",NA,"juv./adults",4580
+"732","Symphodus rostratus","zoobenthos","echinoderms","n.a./other echinoderms",NA,"juv./adults",4580
+"733","Symphodus rostratus","zoobenthos","mollusks","gastropods",NA,"juv./adults",4580
+"734","Symphodus rostratus","zooplankton","plank. crust.","mysids",NA,"juv./adults",4580
+"735","Symphodus tinca","plants","other plants","benthic algae/weeds",NA,"juv./adults",1708
+"736","Symphodus tinca","zoobenthos","benth. crust.","amphipods",NA,"juv./adults",1708
+"737","Symphodus tinca","zoobenthos","benth. crust.","crabs",NA,"juv./adults",1708
+"738","Symphodus tinca","zoobenthos","benth. crust.","isopods",NA,"juv./adults",1708
+"739","Symphodus tinca","zoobenthos","benth. crust.","n.a./other benth. crustaceans",NA,"juv./adults",1708
+"740","Symphodus tinca","zoobenthos","benth. crust.","shrimps/prawns",NA,"juv./adults",1708
+"741","Symphodus tinca","zoobenthos","echinoderms","n.a./other echinoderms",NA,"juv./adults",1708
+"742","Symphodus tinca","zoobenthos","echinoderms","sea urchins",NA,"juv./adults",1708
+"743","Symphodus tinca","zoobenthos","mollusks","bivalves",NA,"juv./adults",1708
+"744","Symphodus tinca","zoobenthos","mollusks","n.a./other mollusks",NA,"juv./adults",1708
+"745","Symphodus tinca","zoobenthos","worms","polychaetes",NA,"juv./adults",1708
+"746","Tautoga onitis","zoobenthos","benth. crust.","n.a./other benth. crustaceans",NA,"adults",458
+"747","Tautoga onitis","zoobenthos","mollusks","bivalves",NA,"adults",458
+"748","Tautoga onitis","zoobenthos","mollusks","gastropods",NA,"adults",458
+"749","Tautogolabrus adspersus","zoobenthos","benth. crust.","lobsters",NA,"juv./adults",3672
+"750","Tautogolabrus adspersus","zoobenthos","mollusks","bivalves",NA,"juv./adults",3672
+"751","Tautogolabrus adspersus","zooplankton","plank. crust.","cladocerans",NA,"juv./adults",3672
+"752","Tautogolabrus adspersus","zooplankton","plank. crust.","plank. copepods",NA,"juv./adults",3672
+"753","Tautogolabrus adspersus","zooplankton","plank. crust.","plank. copepods",NA,"juv./adults",3672
+"754","Thalassoma amblycephalum","zooplankton","plank. crust.","n.a./other plank. crustaceans",NA,"juv./adults",5642
+"755","Thalassoma ballieui","detritus","detritus","carcasses",NA,"juv./adults",7771
+"756","Thalassoma ballieui","nekton","finfish","bony fish",NA,"juv./adults",7771
+"757","Thalassoma ballieui","nekton","finfish","bony fish",NA,"juv./adults",7771
+"758","Thalassoma ballieui","nekton","finfish","bony fish",NA,"juv./adults",7771
+"759","Thalassoma ballieui","zoobenthos","benth. crust.","crabs",NA,"juv./adults",7771
+"760","Thalassoma ballieui","zoobenthos","benth. crust.","lobsters",NA,"juv./adults",7771
+"761","Thalassoma ballieui","zoobenthos","echinoderms","n.a./other echinoderms",NA,"juv./adults",7771
+"762","Thalassoma ballieui","zoobenthos","echinoderms","sea stars/brittle stars",NA,"juv./adults",7771
+"763","Thalassoma ballieui","zoobenthos","echinoderms","sea stars/brittle stars",NA,"juv./adults",7771
+"764","Thalassoma ballieui","zoobenthos","echinoderms","sea urchins",NA,"juv./adults",7771
+"765","Thalassoma ballieui","zoobenthos","mollusks","bivalves",NA,"juv./adults",7771
+"766","Thalassoma ballieui","zoobenthos","mollusks","gastropods",NA,"juv./adults",7771
+"767","Thalassoma bifasciatum","nekton","finfish","bony fish",NA,"juv./adults",3673
+"768","Thalassoma bifasciatum","zoobenthos","benth. crust.","isopods",NA,"juv./adults",3673
+"769","Thalassoma bifasciatum","zoobenthos","benth. crust.","crabs",NA,"juv./adults",3673
+"770","Thalassoma bifasciatum","zoobenthos","benth. crust.","n.a./other benth. crustaceans",NA,"juv./adults",3673
+"771","Thalassoma bifasciatum","zoobenthos","benth. crust.","shrimps/prawns",NA,"juv./adults",3673
+"772","Thalassoma bifasciatum","zoobenthos","benth. crust.","stomatopods",NA,"juv./adults",3673
+"773","Thalassoma bifasciatum","zoobenthos","echinoderms","sea stars/brittle stars",NA,"juv./adults",3673
+"774","Thalassoma bifasciatum","zoobenthos","echinoderms","sea urchins",NA,"juv./adults",3673
+"775","Thalassoma bifasciatum","zoobenthos","mollusks","gastropods",NA,"juv./adults",3673
+"776","Thalassoma bifasciatum","zoobenthos","mollusks","n.a./other cephalopods",NA,"juv./adults",3673
+"777","Thalassoma bifasciatum","zoobenthos","other benth. invertebrates","n.a./other benth. invertebrates",NA,"juv./adults",3673
+"778","Thalassoma bifasciatum","zoobenthos","other benth. invertebrates","n.a./other benth. invertebrates",NA,"juv./adults",3673
+"779","Thalassoma bifasciatum","zoobenthos","worms","polychaetes",NA,"juv./adults",3673
+"780","Thalassoma bifasciatum","zoobenthos","worms","polychaetes",NA,"juv./adults",3673
+"781","Thalassoma bifasciatum","zooplankton","plank. crust.","plank. copepods",NA,"juv./adults",3673
+"782","Thalassoma bifasciatum","zooplankton","plank. crust.","plank. copepods",NA,"juv./adults",3673
+"783","Thalassoma bifasciatum","zooplankton","plank. crust.","plank. copepods",NA,"juv./adults",3673
+"784","Thalassoma bifasciatum","zooplankton","plank. crust.","n.a./other plank. crustaceans",NA,"juv./adults",3673
+"785","Thalassoma cupido","zoobenthos","other benth. invertebrates","n.a./other benth. invertebrates",NA,"juv./adults",6587
+"786","Thalassoma duperrey","nekton","finfish","n.a./other finfish",9.5,"juv./adults",7770
+"787","Thalassoma duperrey","zoobenthos","mollusks","n.a./other mollusks",NA,"juv./adults",7770
+"788","Thalassoma duperrey","zoobenthos","other benth. invertebrates","n.a./other benth. invertebrates",NA,"juv./adults",7770
+"789","Thalassoma genivittatum","zoobenthos","other benth. invertebrates","n.a./other benth. invertebrates",NA,"juv./adults",25809
+"790","Thalassoma grammaticum","zoobenthos","other benth. invertebrates","n.a./other benth. invertebrates",NA,"juv./adults",13822
+"791","Thalassoma hardwicke","zoobenthos","other benth. invertebrates","n.a./other benth. invertebrates",NA,"juv./adults",5643
+"792","Thalassoma hebraicum","zoobenthos","other benth. invertebrates","n.a./other benth. invertebrates",NA,"juv./adults",8019
+"793","Thalassoma jansenii","zoobenthos","other benth. invertebrates","n.a./other benth. invertebrates",NA,"juv./adults",5644
+"794","Thalassoma lucasanum","zoobenthos","other benth. invertebrates","n.a./other benth. Invertebrates",NA,"juv./adults",13860
+"795","Thalassoma lucasanum","zooplankton","other plank. invertebrates","n.a./other plank. Invertebrates",NA,"juv./adults",13860
+"796","Thalassoma lunare","zoobenthos","other benth. invertebrates","n.a./other benth. invertebrates",NA,"juv./adults",5645
+"797","Thalassoma pavo","zoobenthos","benth. crust.","n.a./other benth. crustaceans",NA,"juv./adults",2500
+"798","Thalassoma pavo","zoobenthos","other benth. invertebrates","n.a./other benth. Invertebrates",NA,"juv./adults",2500
+"799","Thalassoma purpureum","nekton","finfish","bony fish",NA,"juv./adults",5647
+"800","Thalassoma purpureum","zoobenthos","benth. crust.","crabs",NA,"juv./adults",5647
+"801","Thalassoma purpureum","zoobenthos","echinoderms","sea stars/brittle stars",NA,"juv./adults",5647
+"802","Thalassoma purpureum","zoobenthos","echinoderms","sea urchins",NA,"juv./adults",5647
+"803","Thalassoma quinquevittatum","nekton","finfish","bony fish",NA,"juv./adults",5648
+"804","Thalassoma quinquevittatum","zoobenthos","benth. crust.","crabs",NA,"juv./adults",5648
+"805","Thalassoma quinquevittatum","zoobenthos","benth. crust.","shrimps/prawns",NA,"juv./adults",5648
+"806","Thalassoma quinquevittatum","zoobenthos","echinoderms","sea urchins",NA,"juv./adults",5648
+"807","Thalassoma quinquevittatum","zoobenthos","mollusks","gastropods",NA,"juv./adults",5648
+"808","Thalassoma rueppellii","zoobenthos","other benth. invertebrates","n.a./other benth. invertebrates",NA,"juv./adults",25787
+"809","Thalassoma trilobatum","nekton","finfish","n.a./other finfish",100,"juv./adults",5649
+"810","Thalassoma trilobatum","zoobenthos","benth. crust.","crabs",NA,"juv./adults",5649
+"811","Thalassoma trilobatum","zoobenthos","echinoderms","n.a./other echinoderms",NA,"juv./adults",5649
+"812","Thalassoma trilobatum","zoobenthos","mollusks","n.a./other mollusks",NA,"juv./adults",5649
+"813","Wetmorella nigropinnata","zoobenthos","other benth. invertebrates","n.a./other benth. invertebrates",NA,"juv./adults",4870
+"814","Xyrichtys martinicensis","zoobenthos","other benth. invertebrates","n.a./other benth. invertebrates",NA,"juv./adults",3668
+"815","Xyrichtys novacula","nekton","finfish","bony fish",0.75,"juv./adults",4581
+"816","Xyrichtys novacula","nekton","finfish","bony fish",0.75,"juv./adults",4581
+"817","Xyrichtys novacula","zoobenthos","benth. crust.","amphipods",14.3,"juv./adults",4581
+"818","Xyrichtys novacula","zoobenthos","benth. crust.","crabs",5.98,"juv./adults",4581
+"819","Xyrichtys novacula","zoobenthos","benth. crust.","isopods",6.77,"juv./adults",4581
+"820","Xyrichtys novacula","zoobenthos","benth. crust.","n.a./other benth. crustaceans",3.76,"juv./adults",4581
+"821","Xyrichtys novacula","zoobenthos","benth. crust.","n.a./other benth. crustaceans",1.5,"juv./adults",4581
+"822","Xyrichtys novacula","zoobenthos","benth. crust.","n.a./other benth. crustaceans",9.16,"juv./adults",4581
+"823","Xyrichtys novacula","zoobenthos","benth. crust.","n.a./other benth. crustaceans",26.32,"juv./adults",4581
+"824","Xyrichtys novacula","zoobenthos","benth. crust.","shrimps/prawns",1.5,"juv./adults",4581
+"825","Xyrichtys novacula","zoobenthos","echinoderms","sea urchins",60.15,"juv./adults",4581
+"826","Xyrichtys novacula","zoobenthos","mollusks","bivalves",55.64,"juv./adults",4581
+"827","Xyrichtys novacula","zoobenthos","mollusks","bivalves",1.5,"juv./adults",4581
+"828","Xyrichtys novacula","zoobenthos","mollusks","bivalves",15.04,"juv./adults",4581
+"829","Xyrichtys novacula","zoobenthos","mollusks","bivalves",34.6,"juv./adults",4581
+"830","Xyrichtys novacula","zoobenthos","mollusks","bivalves",1.5,"juv./adults",4581
+"831","Xyrichtys novacula","zoobenthos","mollusks","bivalves",10.53,"juv./adults",4581
+"832","Xyrichtys novacula","zoobenthos","mollusks","gastropods",12.8,"juv./adults",4581
+"833","Xyrichtys novacula","zoobenthos","mollusks","gastropods",0.75,"juv./adults",4581
+"834","Xyrichtys novacula","zoobenthos","mollusks","gastropods",0.75,"juv./adults",4581
+"835","Xyrichtys novacula","zoobenthos","mollusks","gastropods",2.26,"juv./adults",4581
+"836","Xyrichtys novacula","zooplankton","plank. crust.","mysids",2.26,"juv./adults",4581
+"837","Xyrichtys novacula","zooplankton","plank. crust.","mysids",28.57,"juv./adults",4581
+"838","Bolbometopon muricatum","plants","other plants","benthic algae/weeds",NA,"juv./adults",5537
+"839","Bolbometopon muricatum","plants","other plants","benthic algae/weeds",NA,"juv./adults",5537
+"840","Bolbometopon muricatum","zoobenthos","cnidarians","n.a./other polyps",NA,"juv./adults",5537
+"841","Calotomus carolinus","plants","other plants","benthic algae/weeds",NA,"juv./adults",4355
+"842","Calotomus spinidens","detritus","detritus","debris",NA,"recruits/juv.",4357
+"843","Calotomus spinidens","plants","other plants","benthic algae/weeds",NA,"juv./adults",4357
+"844","Calotomus spinidens","plants","other plants","benthic algae/weeds",NA,"juv./adults",4357
+"845","Calotomus spinidens","plants","other plants","periphyton",NA,"juv./adults",4357
+"846","Calotomus viridescens","plants","other plants","benthic algae/weeds",NA,"juv./adults",4358
+"847","Calotomus viridescens","plants","other plants","periphyton",NA,"juv./adults",4358
+"848","Cetoscarus bicolor","plants","other plants","benthic algae/weeds",NA,"juv./adults",5538
+"849","Chlorurus atrilunula","plants","other plants","benthic algae/weeds",NA,"juv./adults",7907
+"850","Chlorurus bleekeri","plants","other plants","benthic algae/weeds",NA,"juv./adults",4976
+"851","Chlorurus bowersi","plants","other plants","benthic algae/weeds",NA,"juv./adults",5542
+"852","Chlorurus bowersi","zoobenthos","other benth. invertebrates","n.a./other benth. invertebrates",NA,"juv./adults",5542
+"853","Chlorurus enneacanthus","plants","other plants","benthic algae/weeds",NA,"juv./adults",7910
+"854","Chlorurus frontalis","plants","other plants","benthic algae/weeds",NA,"juv./adults",5547
+"855","Chlorurus genazonatus","plants","other plants","benthic algae/weeds",NA,"juv./adults",14382
+"856","Chlorurus gibbus","plants","other plants","benthic algae/weeds",NA,"juv./adults",4979
+"857","Chlorurus japanensis","plants","other plants","benthic algae/weeds",NA,"juv./adults",4978
+"858","Chlorurus japanensis","plants","other plants","benthic algae/weeds",NA,"juv./adults",4978
+"859","Chlorurus oedema","plants","other plants","benthic algae/weeds",NA,"juv./adults",8394
+"860","Chlorurus sordidus","detritus","detritus","debris",NA,"adults",5556
+"861","Chlorurus sordidus","plants","other plants","benthic algae/weeds",NA,"recruits/juv.",5556
+"862","Chlorurus sordidus","plants","other plants","benthic algae/weeds",NA,"juv./adults",5556
+"863","Chlorurus sordidus","zoobenthos","benth. crust.","n.a./other benth. crustaceans",NA,"recruits/juv.",5556
+"864","Chlorurus sordidus","zooplankton","other plank. invertebrates","n.a./other plank. invertebrates",NA,"recruits/juv.",5556
+"865","Chlorurus strongylocephalus","plants","other plants","benthic algae/weeds",NA,"juv./adults",12833
+"866","Cryptotomus roseus","plants","other plants","benthic algae/weeds",NA,"juv./adults",3674
+"867","Hipposcarus harid","plants","other plants","benthic algae/weeds",NA,"juv./adults",7906
+"868","Hipposcarus longiceps","plants","other plants","benthic algae/weeds",NA,"juv./adults",5539
+"869","Hipposcarus longiceps","zoobenthos","other benth. invertebrates","n.a./other benth. invertebrates",NA,"juv./adults",5539
+"870","Leptoscarus vaigiensis","detritus","detritus","debris",NA,"recruits/juv.",4360
+"871","Leptoscarus vaigiensis","plants","other plants","benthic algae/weeds",NA,"adults",4360
+"872","Leptoscarus vaigiensis","plants","other plants","benthic algae/weeds",NA,"recruits/juv.",4360
+"873","Leptoscarus vaigiensis","plants","other plants","benthic algae/weeds",NA,"juv./adults",4360
+"874","Leptoscarus vaigiensis","plants","other plants","benthic algae/weeds",NA,"juv./adults",4360
+"875","Leptoscarus vaigiensis","zoobenthos","cnidarians","n.a./other polyps",NA,"juv./adults",4360
+"876","Leptoscarus vaigiensis","zooplankton","plank. crust.","plank. copepods",NA,"larvae",4360
+"877","Nicholsina denticulata","plants","other plants","benthic algae/weeds",NA,"juv./adults",13980
+"878","Nicholsina denticulata","plants","other plants","benthic algae/weeds",NA,"juv./adults",13980
+"879","Nicholsina usta usta","plants","other plants","benthic algae/weeds",NA,"juv./adults",1151
+"880","Scarus altipinnis","plants","other plants","benthic algae/weeds",NA,"juv./adults",5540
+"881","Scarus caudofasciatus","plants","other plants","benthic algae/weeds",NA,"juv./adults",7908
+"882","Scarus chameleon","plants","other plants","benthic algae/weeds",NA,"juv./adults",5543
+"883","Scarus coeruleus","plants","other plants","benthic algae/weeds",NA,"juv./adults",1153
+"884","Scarus compressus","plants","other plants","benthic algae/weeds",NA,"juv./adults",13981
+"885","Scarus dimidiatus","plants","other plants","benthic algae/weeds",NA,"juv./adults",4973
+"886","Scarus dimidiatus","plants","other plants","benthic algae/weeds",NA,"juv./adults",4973
+"887","Scarus falcipinnis","plants","other plants","benthic algae/weeds",NA,"juv./adults",7911
+"888","Scarus ferrugineus","plants","other plants","benthic algae/weeds",NA,"juv./adults",14380
+"889","Scarus festivus","plants","other plants","benthic algae/weeds",NA,"juv./adults",5544
+"890","Scarus flavipectoralis","plants","other plants","benthic algae/weeds",NA,"juv./adults",4968
+"891","Scarus forsteni","plants","other plants","benthic algae/weeds",NA,"juv./adults",5545
+"892","Scarus frenatus","plants","other plants","benthic algae/weeds",NA,"juv./adults",5546
+"893","Scarus ghobban","plants","other plants","benthic algae/weeds",NA,"juv./adults",5548
+"894","Scarus globiceps","plants","other plants","benthic algae/weeds",NA,"juv./adults",4970
+"895","Scarus longipinnis","plants","other plants","benthic algae/weeds",NA,"juv./adults",4981
+"896","Scarus niger","plants","other plants","benthic algae/weeds",NA,"juv./adults",5550
+"897","Scarus obishime","plants","other plants","benthic algae/weeds",NA,"juv./adults",12831
+"898","Scarus perrico","plants","other plants","benthic algae/weeds",NA,"juv./adults",8392
+"899","Scarus prasiognathos","plants","other plants","benthic algae/weeds",NA,"juv./adults",4971
+"900","Scarus psittacus","plants","other plants","benthic algae/weeds",NA,"juv./adults",5553
+"901","Scarus quoyi","plants","other plants","benthic algae/weeds",NA,"juv./adults",5554
+"902","Scarus rivulatus","plants","other plants","benthic algae/weeds",NA,"juv./adults",4969
+"903","Scarus rivulatus","zoobenthos","cnidarians","hard corals",NA,"juv./adults",4969
+"904","Scarus rubroviolaceus","plants","other plants","benthic algae/weeds",NA,"juv./adults",5555
+"905","Scarus scaber","plants","other plants","benthic algae/weeds",NA,"juv./adults",7913
+"906","Scarus schlegeli","plants","other plants","benthic algae/weeds",NA,"recruits/juv.",4975
+"907","Scarus schlegeli","plants","other plants","benthic algae/weeds",NA,"juv./adults",4975
+"908","Scarus schlegeli","zoobenthos","benth. crust.","n.a./other benth. crustaceans",100,"recruits/juv.",4975
+"909","Scarus schlegeli","zooplankton","other plank. invertebrates","n.a./other plank. invertebrates",NA,"recruits/juv.",4975
+"910","Scarus spinus","plants","other plants","benthic algae/weeds",NA,"juv./adults",4974
+"911","Scarus taeniopterus","plants","other plants","benthic algae/weeds",NA,"juv./adults",1156
+"912","Scarus tricolor","plants","other plants","benthic algae/weeds",NA,"juv./adults",6438
+"913","Scarus vetula","plants","other plants","benthic algae/weeds",NA,"juv./adults",1157
+"914","Scarus viridifucatus","plants","other plants","benthic algae/weeds",NA,"juv./adults",7914
+"915","Sparisoma atomarium","plants","other plants","benthic algae/weeds",NA,"juv./adults",3675
+"916","Sparisoma aurofrenatum","plants","other plants","benthic algae/weeds",NA,"juv./adults",1158
+"917","Sparisoma choati","plants","other plants","benthic algae/weeds",NA,"juv./adults",66403
+"918","Sparisoma choati","plants","other plants","benthic algae/weeds",NA,"juv./adults",66403
+"919","Sparisoma chrysopterum","plants","phytoplankton","blue-green algae",NA,"recruits/juv.",1159
+"920","Sparisoma chrysopterum","plants","phytoplankton","diatoms",NA,"recruits/juv.",1159
+"921","Sparisoma cretense","plants","other plants","benthic algae/weeds",NA,"juv./adults",13025
+"922","Sparisoma cretense","zoobenthos","other benth. invertebrates","n.a./other benth. invertebrates",NA,"juv./adults",13025
+"923","Sparisoma cretense","zooplankton","other plank. invertebrates","n.a./other plank. invertebrates",NA,"juv./adults",13025
+"924","Sparisoma radians","plants","other plants","benthic algae/weeds",NA,"juv./adults",3676
+"925","Sparisoma tuiupiranga","plants","other plants","benthic algae/weeds",NA,"juv./adults",61816
+"926","Sparisoma tuiupiranga","plants","other plants","benthic algae/weeds",NA,"juv./adults",61816
+"927","Sparisoma tuiupiranga","plants","other plants","benthic algae/weeds",NA,"juv./adults",61816
+"928","Sparisoma tuiupiranga","plants","other plants","benthic algae/weeds",NA,"juv./adults",61816
+"929","Sparisoma viride","plants","other plants","benthic algae/weeds",NA,"juv./adults",1161
+"930","Haletta semifasciata","nekton","finfish","bony fish",NA,"juv./adults",12836
+"931","Haletta semifasciata","nekton","finfish","bony fish",NA,"juv./adults",12836
+"932","Haletta semifasciata","plants","other plants","benthic algae/weeds",NA,"juv./adults",12836
+"933","Haletta semifasciata","plants","other plants","benthic algae/weeds",NA,"juv./adults",12836
+"934","Haletta semifasciata","zoobenthos","benth. crust.","amphipods",NA,"juv./adults",12836
+"935","Haletta semifasciata","zoobenthos","benth. crust.","crabs",NA,"juv./adults",12836
+"936","Haletta semifasciata","zoobenthos","mollusks","gastropods",NA,"juv./adults",12836
+"937","Haletta semifasciata","zoobenthos","worms","polychaetes",NA,"juv./adults",12836
+"938","Heteroscarus acroptilus","detritus","detritus","debris",NA,"adults",12837
+"939","Heteroscarus acroptilus","others","others","n.a./others",NA,"adults",12837
+"940","Heteroscarus acroptilus","plants","other plants","benthic algae/weeds",NA,"adults",12837
+"941","Heteroscarus acroptilus","plants","other plants","benthic algae/weeds",NA,"adults",12837
+"942","Heteroscarus acroptilus","plants","other plants","benthic algae/weeds",NA,"adults",12837
+"943","Heteroscarus acroptilus","plants","other plants","benthic algae/weeds",NA,"adults",12837
+"944","Heteroscarus acroptilus","plants","other plants","benthic algae/weeds",NA,"adults",12837
+"945","Heteroscarus acroptilus","plants","other plants","benthic algae/weeds",NA,"adults",12837
+"946","Heteroscarus acroptilus","plants","other plants","benthic algae/weeds",NA,"adults",12837
+"947","Heteroscarus acroptilus","plants","phytoplankton","blue-green algae",NA,"adults",12837
+"948","Heteroscarus acroptilus","zoobenthos","benth. crust.","n.a./other benth. crustaceans",NA,"adults",12837
+"949","Heteroscarus acroptilus","zoobenthos","benth. crust.","n.a./other benth. crustaceans",NA,"adults",12837
+"950","Heteroscarus acroptilus","zoobenthos","mollusks","gastropods",NA,"adults",12837
+"951","Heteroscarus acroptilus","zoobenthos","sponges/tunicates","sponges",NA,"adults",12837
+"952","Heteroscarus acroptilus","zoobenthos","worms","polychaetes",NA,"adults",12837
+"953","Heteroscarus acroptilus","zooplankton","jellyfish/hydroids","jellyfish/hydroids",NA,"adults",12837
+"954","Odax pullus","plants","other plants","benthic algae/weeds",NA,"adults",12840
+"955","Odax pullus","plants","other plants","benthic algae/weeds",NA,"adults",12840
+"956","Odax pullus","plants","other plants","benthic algae/weeds",NA,"juv./adults",12840
+"957","Odax pullus","plants","other plants","benthic algae/weeds",NA,"adults",12840
+"958","Odax pullus","plants","other plants","benthic algae/weeds",NA,"adults",12840
+"959","Odax pullus","zoobenthos","benth. crust.","n.a./other benth. crustaceans",NA,"adults",12840
+"960","Odax pullus","zoobenthos","benth. crust.","n.a./other benth. crustaceans",NA,"adults",12840
+"961","Odax pullus","zoobenthos","mollusks","gastropods",NA,"adults",12840
+"962","Odax pullus","zooplankton","jellyfish/hydroids","jellyfish/hydroids",NA,"adults",12840
